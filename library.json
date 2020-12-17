@@ -16,5 +16,14 @@
     "language": "UN",
     "link": "Chess.vtt",
     "notes": ""
+  },
+  {
+    "name": "ONE",
+    "similar name": "UNO",
+    "similar link": "https://boardgamegeek.com/boardgame/2223/uno",
+    "players": "2-10",
+    "language": "US",
+    "link": "ONE.vtt",
+    "notes": ""
   }
 ]
