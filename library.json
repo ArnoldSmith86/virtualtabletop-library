@@ -61,5 +61,14 @@
     "language": "US",
     "link": "ONE.vtt",
     "notes": ""
+  },
+  {
+    "name": "象棋 / Xiangqi / Chinese Chess",
+    "similar name": "象棋 / Xiangqi / Chinese Chess",
+    "similar link": "https://boardgamegeek.com/boardgame/2393/xiangqi",
+    "players": "2",
+    "language": "CN",
+    "link": "Xiangqi.vtt",
+    "notes": ""
   }
 ]
