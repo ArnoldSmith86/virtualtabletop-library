@@ -40,7 +40,7 @@ done
 
 if [[ ! -z "$failed" ]]; then
   echo ""
-  echo "Failures encountered extacting the following:"
+  echo "Failures encountered building the following:"
   echo "$failed"
   exit 1
 fi
