@@ -1,0 +1,13 @@
+{
+  "name": "virtualtabletop-library",
+  "version": "0.1.0",
+  "description": "Library of games and tutorious for virtualtabletop",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnoldSmith86/virtualtabletop-library.git"
+  },
+  "scripts": {
+    "extract": "./util/extract.sh",
+    "build": "./util/build.sh"
+  }
+}
