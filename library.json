@@ -54,12 +54,30 @@
     "notes": ""
   },
   {
+    "name": "Go",
+    "similar name": "Go",
+    "similar link": "https://boardgamegeek.com/boardgame/188/go",
+    "players": "2",
+    "language": "US",
+    "link": "Go.vtt",
+    "notes": ""
+  },
+  {
     "name": "Tittle",
     "similar name": "IOTA",
     "similar link": "https://boardgamegeek.com/boardgame/119632/iota",
     "players": "2-4",
     "language": "US",
     "link": "Tittle.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Spin 5",
+    "similar name": "Pentago",
+    "similar link": "https://boardgamegeek.com/boardgame/21012/pentago-xl",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Spin_5.vtt",
     "notes": ""
   },
   {
