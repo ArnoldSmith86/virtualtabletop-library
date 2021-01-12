@@ -12,4 +12,4 @@ Alternatively, go to https://virtualtabletop.io/Tutorials and see all the tutori
 
 ## Copyright notice
 
-All tutorials used on VirtualTabletop.io have the approval of their developers to release the the tutorial to the Public Domain under CC0.
+All tutorials used on VirtualTabletop.io have the approval of their developers to release the tutorial to the Public Domain under CC0.
