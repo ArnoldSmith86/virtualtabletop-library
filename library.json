@@ -9,15 +9,6 @@
     "notes": ""
   },
   {
-    "name": "Bug Chess",
-    "similar name": "Hive",
-    "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
-    "players": "2",
-    "language": "US",
-    "link": "Bug Chess.vtt",
-    "notes": ""
-  },
-  {
     "name": "Checkers",
     "similar name": "Checkers",
     "similar link": "https://boardgamegeek.com/boardgame/2083/checkers",
@@ -105,6 +96,15 @@
     "players": "2",
     "language": "US",
     "link": "Go.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Bug Chess",
+    "similar name": "Hive",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
+    "players": "2",
+    "language": "US",
+    "link": "Bug Chess.vtt",
     "notes": ""
   },
   {
