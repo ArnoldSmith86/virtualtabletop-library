@@ -196,5 +196,158 @@
     "language": "CN / UN",
     "link": "Xiangqi.vtt",
     "notes": ""
+  },
+  {
+    "name": "--------Tutorials Follow--------",
+    "similar name": "",
+    "similar link": "",
+    "players": "",
+    "language": "",
+    "link": "",
+    "notes": "Tutorials are demo files for developers. They are not games."
+  },
+  {
+    "name": "Button Appearance",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Button Appearance.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - CLICK",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CLICK.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - COMPUTE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - COMPUTE.vtt",
+    "notes": "2 Variants: Basic Operations, Comparison Operations"
+  },
+  {
+    "name": "Functions - GET",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - GET.vtt",
+    "notes": "2 Variants: Aggregation First, Aggregation Sum"
+  },
+  {
+    "name": "Functions - RANDOM",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - RANDOM.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - ROTATE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - ROTATE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - SORT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - SORT.vtt",
+    "notes": "4 Variants: Introduction, Inbuilt Keys, Sequential, Reversing"
+  },
+  {
+    "name": "Functions - SELECT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - SELECT.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Grids",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Grid.vtt",
+    "notes": "2 Variants: Tiling, Area Limit"
+  },
+  {
+    "name": "Hands",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Hands.vtt",
+    "notes": "2 Variants: Direct Deal, Custom Visibility"
+  },
+  {
+    "name": "Hexagonal Cards",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Hexagonal Cards.vtt",
+    "notes": "3 Variants: Basics, Grid, Demo"
+  },
+  {
+    "name": "Holders",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Holders.vtt",
+    "notes": "5 Variants: Appearance, Offset Basic, Offset Advanced, Moving Basic, Moving Advanced"
+  },
+  {
+    "name": "Skip",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Skip.vtt",
+    "notes": ""
+  },
+  {
+    "name": "--------Assets Follow--------",
+    "similar name": "",
+    "similar link": "",
+    "players": "",
+    "language": "",
+    "link": "",
+    "notes": "Assets are widgets and other items for developers. They are not games."
+  },
+  {
+    "name": "Assets",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets.vtt",
+    "notes": "3 Variants: Game Pieces, Game Boards, Card Decks"
+  },
+  {
+    "name": "UN Unicode",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "UN Unicode.vtt",
+    "notes": ""
   }
 ]
