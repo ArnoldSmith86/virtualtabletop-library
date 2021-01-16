@@ -1,1 +1,1 @@
-# Files with assets for anyone to use such as game pieces, board, and decks.  All are public domain or licensed under Creative Commons as indicated in each file.
+# Files with assets for anyone to use such as game pieces, board, decks, and UN Unicode guidelines.  The asset files are available in the main libary. All are public domain or licensed under Creative Commons as indicated in each file.
