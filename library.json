@@ -81,6 +81,15 @@
     "notes": ""
   },
   {
+    "name": "Durak",
+    "similar name": "Durak",
+    "similar link": "https://boardgamegeek.com/boardgame/29351/durak",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Durak.vtt",
+    "notes": ""
+  },
+  {
     "name": "FreeCell",
     "similar name": "FreeCell",
     "similar link": "https://boardgamegeek.com/boardgame/63788/freecell",
@@ -114,6 +123,15 @@
     "players": "2-4",
     "language": "US",
     "link": "Tittle.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Moving Walls",
+    "similar name": "Labyrinth",
+    "similar link": "https://boardgamegeek.com/boardgame/1219/labyrinth",
+    "players": "2-4",
+    "language": "US",
+    "link": "Moving Walls.vtt",
     "notes": ""
   },
   {
@@ -338,7 +356,7 @@
     "similar link": "",
     "players": "1",
     "language": "US",
-    "link": "Assets.vtt",
+    "link": "Assets - Widgets.vtt",
     "notes": "3 Variants: Game Pieces, Game Boards, Card Decks"
   },
   {
@@ -347,7 +365,7 @@
     "similar link": "",
     "players": "1",
     "language": "US",
-    "link": "UN Unicode.vtt",
+    "link": "Assets - UN Unicode.vtt",
     "notes": ""
   }
 ]
