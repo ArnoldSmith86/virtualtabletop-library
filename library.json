@@ -9,6 +9,15 @@
     "notes": ""
   },
   {
+    "name": "Stratagem",
+    "similar name": "Blokus",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2453/blokus",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Stratagem.vtt",
+    "notes": ""
+  },
+  {
     "name": "Checkers",
     "similar name": "Checkers",
     "similar link": "https://boardgamegeek.com/boardgame/2083/checkers",
@@ -225,7 +234,7 @@
     "notes": ""
   },
   {
-    "name": "--------Tutorials Follow--------",
+    "name": "-----Tutorials Follow-----",
     "similar name": "",
     "similar link": "",
     "players": "",
@@ -351,7 +360,7 @@
     "notes": ""
   },
   {
-    "name": "--------Assets Follow--------",
+    "name": "------Assets Follow------",
     "similar name": "",
     "similar link": "",
     "players": "",
@@ -360,7 +369,16 @@
     "notes": "Assets are widgets and other items for developers. They are not games."
   },
   {
-    "name": "Widgets",
+    "name": "Spinners",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Spinners.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Other Widgets",
     "similar name": "",
     "similar link": "",
     "players": "1",
@@ -375,6 +393,6 @@
     "players": "1",
     "language": "US",
     "link": "Assets - UN Unicode.vtt",
-    "notes": ""
+    "notes": "Recommended standard symbols for UN games"
   }
 ]
