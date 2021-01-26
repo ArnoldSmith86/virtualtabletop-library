@@ -54,6 +54,24 @@
     "notes": ""
   },
   {
+    "name": "Undercover",
+    "similar name": "Codenames",
+    "similar link": "https://boardgamegeek.com/boardgame/178900/codenames",
+    "players": "4+",
+    "language": "US / DE / BR",
+    "link": "Undercover.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Undercover Duo",
+    "similar name": "Codenames Duet",
+    "similar link": "https://boardgamegeek.com/boardgame/224037/codenames-duet",
+    "players": "2",
+    "language": "US / DE / BR",
+    "link": "Undercover Duo.vtt",
+    "notes": ""
+  },
+  {
     "name": "Diplomacy",
     "similar name": "Coup",
     "similar link": "https://boardgamegeek.com/boardgame/131357/coup",
@@ -96,6 +114,15 @@
     "players": "2-6",
     "language": "UN",
     "link": "Durak.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Tantrums",
+    "similar name": "Fits",
+    "similar link": "https://boardgamegeek.com/boardgame/40393/fits",
+    "players": "1-4",
+    "language": "UN",
+    "link": "Tantrums.vtt",
     "notes": ""
   },
   {
