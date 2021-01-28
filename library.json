@@ -9,12 +9,30 @@
     "notes": ""
   },
   {
+    "name": "Blue",
+    "similar name": "Azul",
+    "similar link": "https://boardgamegeek.com/boardgame/230802/azul",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Blue.vtt",
+    "notes": ""
+  },
+  {
     "name": "Stratagem",
     "similar name": "Blokus",
     "similar link": "https://www.boardgamegeek.com/boardgame/2453/blokus",
     "players": "2-4",
     "language": "UN",
     "link": "Stratagem.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Bhukhar",
+    "similar name": "Bhukhar",
+    "similar link": "https://www.boardgamegeek.com/boardgame/15878/rummy",
+    "players": "4-8",
+    "language": "GB",
+    "link": "Bhukhar.vtt",
     "notes": ""
   },
   {
@@ -243,6 +261,15 @@
     "notes": ""
   },
   {
+    "name": "Splendid",
+    "similar name": "Splendor",
+    "similar link": "https://boardgamegeek.com/boardgame/148228/splendor",
+    "players": "2-4",
+    "language": "US",
+    "link": "Splendid.vtt",
+    "notes": ""
+  },
+  {
     "name": "ONE",
     "similar name": "UNO",
     "similar link": "https://boardgamegeek.com/boardgame/2223/uno",
@@ -295,6 +322,15 @@
     "language": "US",
     "link": "Tutorial - Functions - COMPUTE.vtt",
     "notes": "2 Variants: Basic Operations, Comparison Operations"
+  },
+  {
+    "name": "Functions - COMPUTE - Array",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - COMPUTE - Array.vtt",
+    "notes": "3 Variants: Overview, Example - Moving Widget, Example - Random Word"
   },
   {
     "name": "Functions - GET",
