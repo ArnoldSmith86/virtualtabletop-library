@@ -270,6 +270,15 @@
     "notes": ""
   },
   {
+    "name": "Connex",
+    "similar name": "Tetris Link",
+    "similar link": "https://boardgamegeek.com/boardgame/93185/tetris-link",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Connex.vtt",
+    "notes": ""
+  },
+  {
     "name": "ONE",
     "similar name": "UNO",
     "similar link": "https://boardgamegeek.com/boardgame/2223/uno",
@@ -303,6 +312,15 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Button Appearance.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Dice",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Dice.vtt",
     "notes": ""
   },
   {
@@ -432,6 +450,24 @@
     "notes": "Assets are widgets and other items for developers. They are not games."
   },
   {
+    "name": "Decks",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "UN",
+    "link": "Assets - Decks.vtt",
+    "notes": "5 Variants: Default, Pixel Art, Minimalist, Big Symbols, Domino (Skinny Cards)"
+  },
+  {
+    "name": "Dice",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Dice.vtt",
+    "notes": ""
+  },
+  {
     "name": "Spinners",
     "similar name": "",
     "similar link": "",
@@ -445,9 +481,9 @@
     "similar name": "",
     "similar link": "",
     "players": "1",
-    "language": "US",
+    "language": "UN",
     "link": "Assets - Widgets.vtt",
-    "notes": "3 Variants: Game Pieces, Game Boards, Card Decks"
+    "notes": "4 Variants: Game Pieces, Game Boards, Buttons, Crystals"
   },
   {
     "name": "UN Unicode",
