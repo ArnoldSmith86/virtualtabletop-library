@@ -207,6 +207,15 @@
     "notes": ""
   },
   {
+    "name": "It's Just a Game, Chill",
+    "similar name": "Mensch ärgere Dich nicht",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2136/pachisi",
+    "players": "2-6",
+    "language": "UN",
+    "link": "It's Just a Game, Chill.vtt",
+    "notes": ""
+  },
+  {
     "name": "Ninety-Nine",
     "similar name": "Ninety-Nine",
     "similar link": "https://www.boardgamegeek.com/boardgame/6688/ninety-nine",
@@ -466,6 +475,15 @@
     "language": "US",
     "link": "Tutorial - Skip.vtt",
     "notes": "2 Variants: Occupied Holders, Used Buttons"
+  },
+  {
+    "name": "Spinners",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Spinners.vtt",
+    "notes": "6 Variants: Basics, Recoloring, Customizing the arrow, Custom background, Styling examples, Automations"
   },
   {
     "name": "------Assets Follow------",
