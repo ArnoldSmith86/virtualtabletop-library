@@ -81,6 +81,15 @@
     "notes": ""
   },
   {
+    "name": "Chinese Chess",
+    "similar name": "Chinese Chess",
+    "similar link": "https://boardgamegeek.com/boardgame/2393/xiangqi",
+    "players": "2",
+    "language": "CN / UN",
+    "link": "Xiangqi.vtt",
+    "notes": ""
+  },
+  {
     "name": "Undercover",
     "similar name": "Codenames",
     "similar link": "https://boardgamegeek.com/boardgame/178900/codenames",
@@ -324,15 +333,6 @@
     "notes": ""
   },
   {
-    "name": "象棋 / Xiangqi / Chinese Chess",
-    "similar name": "象棋 / Xiangqi / Chinese Chess",
-    "similar link": "https://boardgamegeek.com/boardgame/2393/xiangqi",
-    "players": "2",
-    "language": "CN / UN",
-    "link": "Xiangqi.vtt",
-    "notes": ""
-  },
-  {
     "name": "-----Tutorials Follow-----",
     "similar name": "",
     "similar link": "",
@@ -438,7 +438,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Grid.vtt",
-    "notes": "2 Variants: Tiling, Area Limit"
+    "notes": "3 Variants: Tiling, Area Limit, Hexagonal Grids"
   },
   {
     "name": "Hands",
@@ -483,7 +483,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Spinners.vtt",
-    "notes": "6 Variants: Basics, Recoloring, Customizing the arrow, Custom background, Styling examples, Automations"
+    "notes": "6 Variants: Basics, Recoloring, Customizing the Arrow, Custom Background, Styling Examples, Automations"
   },
   {
     "name": "------Assets Follow------",
@@ -501,7 +501,7 @@
     "players": "1",
     "language": "UN",
     "link": "Assets - Decks.vtt",
-    "notes": "5 Variants: Default, Pixel Art, Minimalist, Big Symbols, Domino (Skinny Cards)"
+    "notes": "6 Variants: Default, Pixel Art, Minimalist, Big Symbols, Domino (Skinny Cards), Grim Pixel Art"
   },
   {
     "name": "Dice",
