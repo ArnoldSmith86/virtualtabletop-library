@@ -30,9 +30,18 @@
     "name": "Bhukhar",
     "similar name": "Bhukhar",
     "similar link": "https://www.boardgamegeek.com/boardgame/15878/rummy",
-    "players": "4-8",
+    "players": "4,6,8",
     "language": "GB",
     "link": "Bhukhar.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Whisky Cat",
+    "similar name": "Brändi Dog",
+    "similar link": "https://boardgamegeek.com/boardgame/2633/dog",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Whisky Cat.vtt",
     "notes": ""
   },
   {
@@ -186,6 +195,15 @@
     "players": "2",
     "language": "UN",
     "link": "Go.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Speedy Fruits",
+    "similar name": "Halli Galli",
+    "similar link": "https://boardgamegeek.com/boardgame/2944/halli-galli",
+    "players": "2-8",
+    "language": "US",
+    "link": "Speedy Fruits.vtt",
     "notes": ""
   },
   {
@@ -466,6 +484,15 @@
     "language": "US",
     "link": "Tutorial - Holders.vtt",
     "notes": "5 Variants: Appearance, Offset Basic, Offset Advanced, Moving Basic, Moving Advanced"
+  },
+  {
+    "name": "Master Button",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Master Button.vtt",
+    "notes": ""
   },
   {
     "name": "Skip",
