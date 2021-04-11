@@ -378,6 +378,15 @@
     "notes": ""
   },
   {
+    "name": "Functions - CALL",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CALL.vtt",
+    "notes": ""
+  },
+  {
     "name": "Functions - CLICK",
     "similar name": "",
     "similar link": "",
@@ -432,15 +441,6 @@
     "notes": ""
   },
   {
-    "name": "Functions - SORT",
-    "similar name": "",
-    "similar link": "",
-    "players": "1",
-    "language": "US",
-    "link": "Tutorial - Functions - SORT.vtt",
-    "notes": "4 Variants: Introduction, Inbuilt Keys, Sequential, Reversing"
-  },
-  {
     "name": "Functions - SELECT",
     "similar name": "",
     "similar link": "",
@@ -448,6 +448,15 @@
     "language": "US",
     "link": "Tutorial - Functions - SELECT.vtt",
     "notes": ""
+  },
+  {
+    "name": "Functions - SORT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - SORT.vtt",
+    "notes": "4 Variants: Introduction, Inbuilt Keys, Sequential, Reversing"
   },
   {
     "name": "Grids",
@@ -558,12 +567,12 @@
     "notes": "4 Variants: Game Pieces, Game Boards, Buttons, Crystals"
   },
   {
-    "name": "UN Unicode",
+    "name": "Universal Game Symbols",
     "similar name": "",
     "similar link": "",
     "players": "1",
     "language": "US",
-    "link": "Assets - UN Unicode.vtt",
+    "link": "Assets - Universal Game Symbols.vtt",
     "notes": "Recommended standard symbols for UN games"
   }
 ]
