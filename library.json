@@ -117,6 +117,24 @@
     "notes": ""
   },
   {
+    "name": "Quad Line",
+    "similar name": "Connect Four",
+    "similar link": "https://boardgamegeek.com/boardgame/2719/connect-four",
+    "players": "2",
+    "language": "UN",
+    "link": "Quad Line.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Quad Line 3D",
+    "similar name": "Connect Four 3D",
+    "similar link": "https://boardgamegeek.com/boardgame/3656/score-four",
+    "players": "2",
+    "language": "UN",
+    "link": "Quad Line 3D.vtt",
+    "notes": ""
+  },
+  {
     "name": "Diplomacy",
     "similar name": "Coup",
     "similar link": "https://boardgamegeek.com/boardgame/131357/coup",
@@ -168,6 +186,15 @@
     "players": "2-6",
     "language": "UN",
     "link": "Durak.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Don't Blow Up",
+    "similar name": "Exploding Kittens",
+    "similar link": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+    "players": "2-5",
+    "language": "US",
+    "link": "Dont Blow Up.vtt",
     "notes": ""
   },
   {
@@ -240,6 +267,15 @@
     "players": "2-6",
     "language": "UN",
     "link": "It's Just a Game, Chill.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Nine Men's Morris",
+    "similar name": "Nine Men's Morris",
+    "similar link": "https://boardgamegeek.com/boardgame/3886/nine-mens-morris",
+    "players": "2",
+    "language": "UN",
+    "link": "Nine Men's Morris.vtt",
     "notes": ""
   },
   {
