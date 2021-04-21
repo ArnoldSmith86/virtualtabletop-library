@@ -18,6 +18,15 @@
     "notes": ""
   },
   {
+    "name": "Backgammon",
+    "similar name": "Backgammon",
+    "similar link": "https://boardgamegeek.com/boardgame/2397/backgammon",
+    "players": "2",
+    "language": "UN",
+    "link": "Backgammon.vtt",
+    "notes": ""
+  },
+  {
     "name": "Stratagem",
     "similar name": "Blokus",
     "similar link": "https://www.boardgamegeek.com/boardgame/2453/blokus",
@@ -261,6 +270,15 @@
     "notes": ""
   },
   {
+    "name": "Mancala",
+    "similar name": "Mancala",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2448/kalah",
+    "players": "2",
+    "language": "US",
+    "link": "Mancala.vtt",
+    "notes": ""
+  },
+  {
     "name": "It's Just a Game, Chill",
     "similar name": "Mensch ärgere Dich nicht",
     "similar link": "https://www.boardgamegeek.com/boardgame/2136/pachisi",
@@ -459,6 +477,15 @@
     "notes": "2 Variants: Aggregation First, Aggregation Sum"
   },
   {
+    "name": "Functions - IF",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - IF.vtt",
+    "notes": ""
+  },
+  {
     "name": "Functions - RANDOM",
     "similar name": "",
     "similar link": "",
@@ -582,6 +609,15 @@
     "players": "1",
     "language": "US",
     "link": "Assets - Dice.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Marbles",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Marbles.vtt",
     "notes": ""
   },
   {
