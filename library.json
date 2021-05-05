@@ -420,7 +420,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Button Appearance.vtt",
-    "notes": ""
+    "notes": "3 Variants: Text Only, Images, CSS Shapes"
   },
   {
     "name": "Dice",
@@ -474,7 +474,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - GET.vtt",
-    "notes": "2 Variants: Aggregation First, Aggregation Sum"
+    "notes": ""
   },
   {
     "name": "Functions - IF",
@@ -528,7 +528,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Grid.vtt",
-    "notes": "3 Variants: Tiling, Area Limit, Hexagonal Grids"
+    "notes": "4 Variants: Tiling, Area Limit, Hexagonal Grids, Changing Properties"
   },
   {
     "name": "Hands",
