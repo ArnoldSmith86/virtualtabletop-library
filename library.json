@@ -243,6 +243,15 @@
     "notes": ""
   },
   {
+    "name": "Fireworks",
+    "similar name": "Hanabi",
+    "similar link": "https://boardgamegeek.com/boardgame/98778/hanabi",
+    "players": "2-5",
+    "language": "US",
+    "link": "Fireworks.vtt",
+    "notes": ""
+  },
+  {
     "name": "Bug Chess",
     "similar name": "Hive",
     "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
@@ -276,6 +285,15 @@
     "players": "2",
     "language": "US",
     "link": "Mancala.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Pairs",
+    "similar name": "Memory",
+    "similar link": "https://boardgamegeek.com/boardgame/7688/memory",
+    "players": "2-8",
+    "language": "US",
+    "link": "Pairs.vtt",
     "notes": ""
   },
   {
@@ -402,6 +420,15 @@
     "players": "2-8",
     "language": "US / UN",
     "link": "Medieval VNO.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Magician",
+    "similar name": "Wizard",
+    "similar link": "https://boardgamegeek.com/boardgame/1465/wizard",
+    "players": "3-6",
+    "language": "US",
+    "link": "Magician.vtt",
     "notes": ""
   },
   {
@@ -558,6 +585,15 @@
     "notes": "5 Variants: Appearance, Offset Basic, Offset Advanced, Moving Basic, Moving Advanced"
   },
   {
+    "name": "JSON User Guide",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - JSON User Guide.vtt",
+    "notes": ""
+  },
+  {
     "name": "Master Button",
     "similar name": "",
     "similar link": "",
@@ -636,7 +672,7 @@
     "players": "1",
     "language": "UN",
     "link": "Assets - Widgets.vtt",
-    "notes": "4 Variants: Game Pieces, Game Boards, Buttons, Crystals"
+    "notes": "5 Variants: Game Pieces, Game Boards, Buttons, Crystals, Coordinate Helper"
   },
   {
     "name": "Universal Game Symbols",
