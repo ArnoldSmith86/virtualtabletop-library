@@ -387,6 +387,15 @@
     "notes": ""
   },
   {
+    "name": "Adedanha",
+    "similar name": "Scattergories",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2381/scattergories",
+    "players": "2-8",
+    "language": "US",
+    "link": "Adedanha.vtt",
+    "notes": ""
+  },
+  {
     "name": "Wordy",
     "similar name": "Scrabble",
     "similar link": "https://boardgamegeek.com/boardgame/320/scrabble",
@@ -447,7 +456,16 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Button Appearance.vtt",
-    "notes": "3 Variants: Text Only, Images, CSS Shapes"
+    "notes": "4 Variants: Introduction, Text Only, Images, CSS Shapes"
+  },
+  {
+    "name": "changeRoutine",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - changeRoutine.vtt",
+    "notes": ""
   },
   {
     "name": "Dice",
@@ -510,15 +528,6 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - IF.vtt",
-    "notes": ""
-  },
-  {
-    "name": "Functions - RANDOM",
-    "similar name": "",
-    "similar link": "",
-    "players": "1",
-    "language": "US",
-    "link": "Tutorial - Functions - RANDOM.vtt",
     "notes": ""
   },
   {
@@ -619,6 +628,15 @@
     "language": "US",
     "link": "Tutorial - Spinners.vtt",
     "notes": "6 Variants: Basics, Recoloring, Customizing the Arrow, Custom Background, Styling Examples, Automations"
+  },
+  {
+    "name": "Timer",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Timer.vtt",
+    "notes": "2 Variants: Basics, Card Deal Animation"
   },
   {
     "name": "------Assets Follow------",
