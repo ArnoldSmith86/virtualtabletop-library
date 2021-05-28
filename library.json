@@ -333,6 +333,15 @@
     "notes": ""
   },
   {
+    "name": "Tic-Tac-Toe-Tye",
+    "similar name": "Otrio",
+    "similar link": "https://www.boardgamegeek.com/boardgame/188465/otrio",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Tic-Tac-Toe-Tye.vtt",
+    "notes": ""
+  },
+  {
     "name": "Crafty",
     "similar name": "Patchwork",
     "similar link": "https://boardgamegeek.com/boardgame/163412/patchwork",
@@ -459,6 +468,15 @@
     "notes": "Tutorials are demo files for developers. They are not games."
   },
   {
+    "name": "Arrays",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Arrays.vtt",
+    "notes": "6 Variants: Creating, Evaluating, Modifying - Basic, Modifying - Advanced, Example: Random Word, Example: Moving Widget"
+  },
+  {
     "name": "Button Appearance",
     "similar name": "",
     "similar link": "",
@@ -475,6 +493,15 @@
     "language": "US",
     "link": "Tutorial - changeRoutine.vtt",
     "notes": ""
+  },
+  {
+    "name": "Comparisons",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Comparisons.vtt",
+    "notes": "2 Variants: Alphanumeric, Logical"
   },
   {
     "name": "Dice",
@@ -502,24 +529,6 @@
     "language": "US",
     "link": "Tutorial - Functions - CLICK.vtt",
     "notes": ""
-  },
-  {
-    "name": "Functions - COMPUTE",
-    "similar name": "",
-    "similar link": "",
-    "players": "1",
-    "language": "US",
-    "link": "Tutorial - Functions - COMPUTE.vtt",
-    "notes": "2 Variants: Basic Operations, Comparison Operations"
-  },
-  {
-    "name": "Functions - COMPUTE - Array",
-    "similar name": "",
-    "similar link": "",
-    "players": "1",
-    "language": "US",
-    "link": "Tutorial - Functions - COMPUTE - Array.vtt",
-    "notes": "3 Variants: Overview, Example - Moving Widget, Example - Random Word"
   },
   {
     "name": "Functions - GET",
@@ -621,6 +630,15 @@
     "notes": ""
   },
   {
+    "name": "Math",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Math.vtt",
+    "notes": "5 Variants: Basic, Constants, Advanced, Randomization, Format"
+  },
+  {
     "name": "Skip",
     "similar name": "",
     "similar link": "",
@@ -637,6 +655,24 @@
     "language": "US",
     "link": "Tutorial - Spinners.vtt",
     "notes": "6 Variants: Basics, Recoloring, Customizing the Arrow, Custom Background, Styling Examples, Automations"
+  },
+  {
+    "name": "State Dependent Routines",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - State Dependent Routines.vtt",
+    "notes": "3 Variants: Custom states, Inbuilt states, Example: Self Locking Button"
+  },
+  {
+    "name": "Strings",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Strings.vtt",
+    "notes": "4 Variants: Creating, Evaluating, Modifying, Example: CSS"
   },
   {
     "name": "Timer",
