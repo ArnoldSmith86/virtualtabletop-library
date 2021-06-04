@@ -252,6 +252,15 @@
     "notes": ""
   },
   {
+    "name": "Hangman",
+    "similar name": "Hangman",
+    "similar link": "https://boardgamegeek.com/boardgame/5314/hangman",
+    "players": "1-8",
+    "language": "US / BR",
+    "link": "Hangman.vtt",
+    "notes": ""
+  },
+  {
     "name": "Bug Chess",
     "similar name": "Hive",
     "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
@@ -447,6 +456,15 @@
     "players": "2-8",
     "language": "US / UN",
     "link": "Medieval VNO.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Fantasy Wars",
+    "similar name": "War Chest",
+    "similar link": "https://boardgamegeek.com/boardgame/249259/war-chest",
+    "players": "2-4",
+    "language": "US",
+    "link": "Fantasy Wars.vtt",
     "notes": ""
   },
   {
@@ -735,7 +753,7 @@
     "players": "1",
     "language": "UN",
     "link": "Assets - Widgets.vtt",
-    "notes": "5 Variants: Game Pieces, Game Boards, Buttons, Crystals, Coordinate Helper"
+    "notes": "5 Variants: Game Pieces, Game Boards, Buttons, Crystals, Misc Tools"
   },
   {
     "name": "Universal Game Symbols",
