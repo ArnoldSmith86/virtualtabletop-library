@@ -531,6 +531,15 @@
     "notes": ""
   },
   {
+    "name": "faceTemplates",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - faceTemplates.vtt",
+    "notes": ""
+  },
+  {
     "name": "Functions - CALL",
     "similar name": "",
     "similar link": "",
@@ -546,6 +555,15 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - CLICK.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - FOREACH",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - FOREACH.vtt",
     "notes": ""
   },
   {
