@@ -6,7 +6,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Flora.vtt",
-    "notes": ""
+    "notes": "Create sets of floral cards in tiled sequences to connect the same species of flower.  Highest score wins."
   },
   {
     "name": "Blue",
@@ -15,7 +15,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Blue.vtt",
-    "notes": ""
+    "notes": "Choose colored tiles to place on board in matching colors with extra points for specific patterns and sets.  Highest score wins."
   },
   {
     "name": "Backgammon",
@@ -24,7 +24,7 @@
     "players": "2",
     "language": "UN",
     "link": "Backgammon.vtt",
-    "notes": ""
+    "notes": "Classic strategy game.  Move checkers around a board to reach home while avoiding capture.  First to remove all own pieces wins."
   },
   {
     "name": "Stratagem",
@@ -33,7 +33,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Stratagem.vtt",
-    "notes": ""
+    "notes": "Place colored shapes onto board with corners touching.  Fewest unit squares remaning wins."
   },
   {
     "name": "Bhukhar",
@@ -42,7 +42,7 @@
     "players": "4,6,8",
     "language": "GB",
     "link": "Bhukhar.vtt",
-    "notes": ""
+    "notes": "Team game in Rummy family.  Cards played in sets or sequences earn points according to card value.  Team with most points wins."
   },
   {
     "name": "Whisky Cat",
@@ -51,7 +51,7 @@
     "players": "2-6",
     "language": "UN",
     "link": "Whisky Cat.vtt",
-    "notes": ""
+    "notes": "Move tokens from home around board to target area using card powers.  First to move all pieces to target wins."
   },
   {
     "name": "Bus Driver",
@@ -60,7 +60,7 @@
     "players": "2+",
     "language": "US",
     "link": "Bus Driver.vtt",
-    "notes": ""
+    "notes": "A drinking game where players make guesses about face down cards."
   },
   {
     "name": "Checkers",
@@ -69,7 +69,7 @@
     "players": "2",
     "language": "UN",
     "link": "Checkers.vtt",
-    "notes": ""
+    "notes": "Classic strategy game, also known as draughts.  Move pieces diagonally around board.  First to capture all opponent pieces wins."
   },
   {
     "name": "Chess",
@@ -78,7 +78,7 @@
     "players": "2",
     "language": "UN",
     "link": "Chess.vtt",
-    "notes": ""
+    "notes": "Classic strategy game.  Move pawns, queens, rooks, etc. in defined patterns around board. First to capture opponent king piece wins."
   },
   {
     "name": "Downtown",
@@ -87,7 +87,7 @@
     "players": "3-6",
     "language": "US",
     "link": "Downtown.vtt",
-    "notes": ""
+    "notes": "Get ownership of sections of city block through luck and negotiation and build matching business through six rounds.  Most money wins. "
   },
   {
     "name": "Chinese Checkers",
@@ -96,7 +96,7 @@
     "players": "2-6",
     "language": "UN",
     "link": "Chinese Checkers.vtt",
-    "notes": ""
+    "notes": "Jump over own or opponent pieces to move to opposite side of board.  First to relocate all 10 pieces wins."
   },
   {
     "name": "Chinese Chess",
@@ -105,7 +105,7 @@
     "players": "2",
     "language": "CN / UN",
     "link": "Xiangqi.vtt",
-    "notes": ""
+    "notes": "Classic strategy game.  Move pieces in defined patterns around intersecting lines on board. First to capture opponent general/marshal piece wins."
   },
   {
     "name": "Undercover",
@@ -114,7 +114,7 @@
     "players": "4+",
     "language": "US / DE / BR",
     "link": "Undercover.vtt",
-    "notes": ""
+    "notes": "Team leader gives team member clues so they can guess words.  First team to guess all words without getting the assasin card wins."
   },
   {
     "name": "Undercover Duo",
@@ -123,7 +123,7 @@
     "players": "2",
     "language": "US / DE / BR",
     "link": "Undercover Duo.vtt",
-    "notes": ""
+    "notes": "Cooperative word guessing game.  Give your partner clues to guess words without getting the assasin card."
   },
   {
     "name": "Quad Line",
@@ -132,7 +132,7 @@
     "players": "2",
     "language": "UN",
     "link": "Quad Line.vtt",
-    "notes": ""
+    "notes": "Stack checkers in columns to link 4 horizontally, vertically, or diagonally.  First to connect four in a row wins."
   },
   {
     "name": "Quad Line 3D",
@@ -141,7 +141,7 @@
     "players": "2",
     "language": "UN",
     "link": "Quad Line 3D.vtt",
-    "notes": ""
+    "notes": "Stack checkers in 3-dimensional columns to link 4 horizontally, vertically, or diagonally.  First to connect four in a row wins."
   },
   {
     "name": "Diplomacy",
@@ -150,7 +150,7 @@
     "players": "2-6",
     "language": "US",
     "link": "Diplomacy.vtt",
-    "notes": ""
+    "notes": "Use card powers to influence other players.  Tell the truth, lie, or steal to gain advantage.  Last player with an influence card remaining wins."
   },
   {
     "name": "The Team",
@@ -159,7 +159,7 @@
     "players": "2-5",
     "language": "US",
     "link": "The Team.vtt",
-    "notes": ""
+    "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
   },
   {
     "name": "Dominoes",
@@ -168,7 +168,7 @@
     "players": "2-5",
     "language": "UN",
     "link": "Dominoes.vtt",
-    "notes": ""
+    "notes": "Classic tile-based strategy game using dominoes with 0 to 6 pips.  Multiple rule variations and winning conditions."
   },
   {
     "name": "Dots",
@@ -177,7 +177,7 @@
     "players": "2",
     "language": "UN",
     "link": "Dots.vtt",
-    "notes": ""
+    "notes": "Add lines to complete squares.  Most completed squares wins."
   },
   {
     "name": "Duel 52",
@@ -186,7 +186,7 @@
     "players": "2",
     "language": "US",
     "link": "Duel 52.vtt",
-    "notes": ""
+    "notes": "Use card powers to remove opponent cards on three lanes on the board.  First player to control two lanes wins."
   },
   {
     "name": "Durak",
@@ -195,7 +195,7 @@
     "players": "2-6",
     "language": "UN",
     "link": "Durak.vtt",
-    "notes": ""
+    "notes": "Alternate attacking and defending moves with cards to beating lower ranked cards and force opponent to take extra cards.  Last player to have cards in hand loses."
   },
   {
     "name": "Don't Blow Up",
@@ -204,7 +204,7 @@
     "players": "2-5",
     "language": "US",
     "link": "Don't Blow Up.vtt",
-    "notes": ""
+    "notes": "Take turns drawing cards, using card powers to avoid getting the explosion card.  First player to get explosion card loses. "
   },
   {
     "name": "Tantrums",
@@ -213,7 +213,7 @@
     "players": "1-4",
     "language": "UN",
     "link": "Tantrums.vtt",
-    "notes": ""
+    "notes": "Place shaped pieces on board to fill in as many spaces as possible, but leaving designated scoring spaces open.  Highest score wins."
   },
   {
     "name": "FreeCell",
@@ -222,7 +222,7 @@
     "players": "1",
     "language": "UN",
     "link": "FreeCell.vtt",
-    "notes": ""
+    "notes": "Classic solitare card game. Move cards one at a time to solve the puzzle."
   },
   {
     "name": "Go",
@@ -231,7 +231,7 @@
     "players": "2",
     "language": "UN",
     "link": "Go.vtt",
-    "notes": ""
+    "notes": "Classic strategy game.  Take turns placing black and white pieces on intersection of board.  Player controlling most territory wins."
   },
   {
     "name": "Speedy Fruits",
@@ -240,7 +240,7 @@
     "players": "2-8",
     "language": "US",
     "link": "Speedy Fruits.vtt",
-    "notes": ""
+    "notes": "Flip cards to reveal matching fruits and ring bell when 5 of a kind are displayed to win opponent cards.  Player with most cards wins."
   },
   {
     "name": "Fireworks",
@@ -249,7 +249,7 @@
     "players": "2-5",
     "language": "US",
     "link": "Fireworks.vtt",
-    "notes": ""
+    "notes": "Cooperative card tile laying game.  Work together to complete the pattern before running out of cards and while never looking at your own cards."
   },
   {
     "name": "Hangman",
@@ -258,7 +258,7 @@
     "players": "1-8",
     "language": "US / BR",
     "link": "Hangman.vtt",
-    "notes": ""
+    "notes": "Guess letters to complete a word before the hangman image is filled in."
   },
   {
     "name": "Bug Chess",
@@ -267,7 +267,7 @@
     "players": "2",
     "language": "US",
     "link": "Bug Chess.vtt",
-    "notes": ""
+    "notes": "Place hexagon tiles with bug images, with each bug moving in unique ways, to control the board. First player to surround opponent's queen wins."
   },
   {
     "name": "Tittle",
@@ -276,7 +276,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Tittle.vtt",
-    "notes": ""
+    "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
   },
   {
     "name": "Moving Walls",
@@ -285,7 +285,7 @@
     "players": "2-4",
     "language": "US",
     "link": "Moving Walls.vtt",
-    "notes": ""
+    "notes": "Shift tiles on board to complete maze pattern to collect treasure and block opponents.  First to collect treasure pieces wins."
   },
   {
     "name": "Liar's Dice",
@@ -294,7 +294,7 @@
     "players": "2-8",
     "language": "US",
     "link": "Liar's Dice.vtt",
-    "notes": ""
+    "notes": "Make claims about value of rolled dice to bluff opponents and get them to challenge.  Lose dice if caught in a lie.  Last player with dice wins."
   },
   {
     "name": "Mancala",
@@ -303,7 +303,7 @@
     "players": "2",
     "language": "US",
     "link": "Mancala.vtt",
-    "notes": ""
+    "notes": "Move marbles around pits in board to collect your own and opponents marbles.  Player with most marbles wins."
   },
   {
     "name": "Pairs",
@@ -312,7 +312,7 @@
     "players": "2-8",
     "language": "US",
     "link": "Pairs.vtt",
-    "notes": ""
+    "notes": "Remember where items are hidden to successfully make matches and win pairs.  Player with most matching pairs wins."
   },
   {
     "name": "It's Just a Game, Chill",
@@ -321,7 +321,7 @@
     "players": "2-6",
     "language": "UN",
     "link": "It's Just a Game, Chill.vtt",
-    "notes": ""
+    "notes": "Move tokens around board according to roll of dice.  First player to get all tokens to home wins."
   },
   {
     "name": "Nine Men's Morris",
@@ -330,16 +330,16 @@
     "players": "2",
     "language": "UN",
     "link": "Nine Men's Morris.vtt",
-    "notes": ""
+    "notes": "Place and slide pieces to intersections of board to make lines of three and remove opponents piece.  First player to have 2 pieces remaining loses."
   },
   {
     "name": "Ninety-Nine",
     "similar name": "Ninety-Nine",
     "similar link": "https://www.boardgamegeek.com/boardgame/6688/ninety-nine",
-    "players": "2-4",
+    "players": "3",
     "language": "UN",
     "link": "Ninety-Nine.vtt",
-    "notes": ""
+    "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
   },
   {
     "name": "Tic-Tac-Toe-Tye",
@@ -348,7 +348,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Tic-Tac-Toe-Tye.vtt",
-    "notes": ""
+    "notes": "Classic game of X's and O's with a twist; 3 different size markers fit in each square.  Link 3 colored tokens in one of 3 ways to win."
   },
   {
     "name": "Crafty",
@@ -357,7 +357,7 @@
     "players": "2",
     "language": "UN",
     "link": "Crafty.vtt",
-    "notes": ""
+    "notes": "Placed shaped pieces on board to fill in spaces while balancing cost of pieces and token position on progress board.  Most points wins."
   },
   {
     "name": "Spin 5",
@@ -366,7 +366,25 @@
     "players": "2-4",
     "language": "UN",
     "link": "Spin 5.vtt",
-    "notes": ""
+    "notes": "Place marble into a space on four connected and rotating 3x3 grids. Connect five marbles in a row to win."
+  },
+  {
+    "name": "Dix Cards",
+    "similar name": "Phase 10",
+    "similar link": "https://boardgamegeek.com/boardgame/1258/phase-10",
+    "players": "2-6",
+    "language": "US",
+    "link": "Dix Cards.vtt",
+    "notes": "Complete a series of levels by laying down cards in runs, sets, or colors.  First to complete 10 levels wins."
+  },
+  {
+    "name": "Dix Dice",
+    "similar name": "Phase 10 Dice",
+    "similar link": "https://boardgamegeek.com/boardgame/2578/phase-10-dice",
+    "players": "1-6",
+    "language": "US",
+    "link": "Dix Dice.vtt",
+    "notes": "Complete a series of levels by rolling dice in runs, sets, or colors.  First to complete 10 levels wins."
   },
   {
     "name": "Poker",
@@ -375,7 +393,7 @@
     "players": "2-6",
     "language": "US",
     "link": "Poker.vtt",
-    "notes": ""
+    "notes": "Use regular deck of 52 cards to form hands higher than opponents, or bluff them into believing your hand is higher.  Multiple rule variations and winning conditions."
   },
   {
     "name": "Alleys",
@@ -384,7 +402,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Alleys.vtt",
-    "notes": ""
+    "notes": "Build walls to create corridors to move token and to block opponent.  First to cross to other side of board wins."
   },
   {
     "name": "Diced",
@@ -393,7 +411,7 @@
     "players": "2-8",
     "language": "UN",
     "link": "Diced.vtt",
-    "notes": ""
+    "notes": "Roll colored and white dice to mark off scoresheet with boxes of 2-12 trying to get as many boxes as possible.  Highest score wins."
   },
   {
     "name": "Reward",
@@ -402,7 +420,7 @@
     "players": "2-6",
     "language": "US",
     "link": "Reward.vtt",
-    "notes": ""
+    "notes": "Move armies around board using dice rolls to conquer territory.  Player who conquers all 42 territories wins."
   },
   {
     "name": "Rummy Tiles",
@@ -411,7 +429,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Rummy Tiles.vtt",
-    "notes": ""
+    "notes": "Rearrange the tiles to make sets and runs. First to play all their tiles wins."
   },
   {
     "name": "Adedanha",
@@ -420,7 +438,7 @@
     "players": "2-8",
     "language": "US",
     "link": "Adedanha.vtt",
-    "notes": ""
+    "notes": "Starting with a random letter, list words in designated categories.  First to complete list wins."
   },
   {
     "name": "Wordy",
@@ -429,7 +447,7 @@
     "players": "2-4",
     "language": "US / DE / BR",
     "link": "Wordy.vtt",
-    "notes": ""
+    "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins"
   },
   {
     "name": "Splendid",
@@ -438,7 +456,16 @@
     "players": "2-4",
     "language": "US",
     "link": "Splendid.vtt",
-    "notes": ""
+    "notes": "Buy cards and gems to collect points.  First player to 15 points wins."
+  },
+  {
+    "name": "Tangrams",
+    "similar name": "Tangrams",
+    "similar link": "https://boardgamegeek.com/boardgame/23953/outside-scope-bgg",
+    "players": "1",
+    "language": "US",
+    "link": "Tangrams.vtt",
+    "notes": "Solo puzzle game.  Use triangles, a square, and a parallelogram to make designs. "
   },
   {
     "name": "Connex",
@@ -447,7 +474,7 @@
     "players": "2-4",
     "language": "UN",
     "link": "Connex.vtt",
-    "notes": ""
+    "notes": "Place colored, shaped blocks into playing area to connect as many pieces as possible to earn points and block opponents.  Highest score wins. "
   },
   {
     "name": "Medieval VNO",
@@ -456,7 +483,7 @@
     "players": "2-8",
     "language": "US / UN",
     "link": "Medieval VNO.vtt",
-    "notes": ""
+    "notes": "Play cards onto discard stack matching color or number.  Use cards with powers to influence play.  First to get rid of all cards wins."
   },
   {
     "name": "Fantasy Wars",
@@ -465,7 +492,7 @@
     "players": "2-4",
     "language": "US",
     "link": "Fantasy Wars.vtt",
-    "notes": ""
+    "notes": "Choose and place tokens with special powers to fight for space on board with hexagon shaped areas.  First player who places designated tokes in specific spaces wins."
   },
   {
     "name": "Magician",
@@ -474,7 +501,7 @@
     "players": "3-6",
     "language": "US",
     "link": "Magician.vtt",
-    "notes": ""
+    "notes": "Trick taking, trump card game using a deck of 60 cards where players must take exact number of tricks bid and 8 cards have special rules.  Most points wins."
   },
   {
     "name": "-----Tutorials Follow-----",
@@ -555,7 +582,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - CLICK.vtt",
-    "notes": ""
+    "notes": "2 Variants: Basic, Modes"
   },
   {
     "name": "Functions - FOREACH",
