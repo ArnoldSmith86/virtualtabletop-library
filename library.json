@@ -288,7 +288,7 @@
     "notes": "Shift tiles on board to complete maze pattern to collect treasure and block opponents.  First to collect treasure pieces wins."
   },
   {
-    "name": "Moving Walls",
+    "name": "Moving Walls 3D",
     "similar name": "3D Labyrinth",
     "similar link": "https://boardgamegeek.com/boardgame/274205/3d-labyrinth",
     "players": "2-4",
@@ -349,6 +349,15 @@
     "language": "UN",
     "link": "Ninety-Nine.vtt",
     "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
+  },
+  {
+    "name": "Iago",
+    "similar name": "Othello",
+    "similar link": "https://boardgamegeek.com/boardgame/2389/othello",
+    "players": "2",
+    "language": "UN",
+    "link": "Iago.vtt",
+    "notes": "Classic strategy game using two-sided discs on an 8x8 board placed to try and capture opponent pieces. Player with most of colored discs on board wins."
   },
   {
     "name": "Tic-Tac-Toe-Tye",
@@ -645,7 +654,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - SORT.vtt",
-    "notes": "4 Variants: Introduction, Inbuilt Keys, Sequential, Reversing"
+    "notes": "5 Variants: Introduction, Inbuilt Keys, Sequential, Reversing, Poker Hands"
   },
   {
     "name": "Grids",
@@ -682,6 +691,15 @@
     "language": "US",
     "link": "Tutorial - Holders.vtt",
     "notes": "5 Variants: Appearance, Offset Basic, Offset Advanced, Moving Basic, Moving Advanced"
+  },
+  {
+    "name": "inheritFrom",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - inheritFrom.vtt",
+    "notes": ""
   },
   {
     "name": "JSON User Guide",
@@ -762,7 +780,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Timer.vtt",
-    "notes": "2 Variants: Basics, Card Deal Animation"
+    "notes": "3 Variants: Basics, Card Deal Animation, Appearance"
   },
   {
     "name": "------Assets Follow------",
