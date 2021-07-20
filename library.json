@@ -1,5 +1,14 @@
 [
   {
+    "name": "Bulls",
+    "similar name": "6 nimmt!",
+    "similar link": "https://boardgamegeek.com/boardgame/432/6-nimmt",
+    "players": "2-10",
+    "language": "US",
+    "link": "Bulls.vtt",
+    "notes": "Put cards in rows in increasing numerical order to get rid of cards and force opponent to take them. Lowest score wins."
+  },
+  {
     "name": "Flora",
     "similar name": "Arboretum",
     "similar link": "https://boardgamegeek.com/boardgame/140934/arboretum",
@@ -159,6 +168,15 @@
     "players": "2-5",
     "language": "US",
     "link": "The Team.vtt",
+    "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
+  },
+  {
+    "name": "The Team II",
+    "similar name": "The Crew: Mission Deep Sea",
+    "similar link": "https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea",
+    "players": "2-5",
+    "language": "US",
+    "link": "The Team II.vtt",
     "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
   },
   {
