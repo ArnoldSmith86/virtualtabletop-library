@@ -369,12 +369,12 @@
     "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
   },
   {
-    "name": "Iago",
+    "name": "Reversi",
     "similar name": "Othello",
     "similar link": "https://boardgamegeek.com/boardgame/2389/othello",
     "players": "2",
     "language": "UN",
-    "link": "Iago.vtt",
+    "link": "Reversi.vtt",
     "notes": "Classic strategy game using two-sided discs on an 8x8 board placed to try and capture opponent pieces. Player with most of colored discs on board wins."
   },
   {
