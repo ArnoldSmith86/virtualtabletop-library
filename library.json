@@ -54,6 +54,15 @@
     "notes": "Team game in Rummy family.  Cards played in sets or sequences earn points according to card value.  Team with most points wins."
   },
   {
+    "name": "Zookeeper",
+    "similar name": "Bohnanza",
+    "similar link": "https://boardgamegeek.com/boardgame/11/bohnanza",
+    "players": "3-5",
+    "language": "US",
+    "link": "Zookeeper.vtt",
+    "notes": "Collect animal cards and play in order picked up. Trade cards to improve hand. Collect coins based on strength of play. Most coins at end of game wins."
+  },
+  {
     "name": "Whisky Cat",
     "similar name": "Brändi Dog",
     "similar link": "https://boardgamegeek.com/boardgame/2633/dog",
@@ -279,6 +288,15 @@
     "notes": "Guess letters to complete a word before the hangman image is filled in."
   },
   {
+    "name": "Animal Race",
+    "similar name": "Hare & Tortoise",
+    "similar link": "https://boardgamegeek.com/boardgame/361/hare-tortoise",
+    "players": "2-6",
+    "language": "US",
+    "link": "Animal Race.vtt",
+    "notes": "Move around board by collecting and spending carrots and lettuce.  First around the board having depleted all lettuce and all but 10 carrots wins."
+  },
+  {
     "name": "Bug Chess",
     "similar name": "Hive",
     "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
@@ -441,6 +459,15 @@
     "notes": "Build walls to create corridors to move token and to block opponent.  First to cross to other side of board wins."
   },
   {
+    "name": "Shape Sorter",
+    "similar name": "Qwirkle",
+    "similar link": "https://boardgamegeek.com/boardgame/25669/qwirkle",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Shape Sorter.vtt",
+    "notes": "Place blocks in patterns on board while matching 6 shapes and 6 colors.  Player with most points wins."
+  },
+  {
     "name": "Diced",
     "similar name": "Qwixx",
     "similar link": "https://boardgamegeek.com/boardgame/131260/qwixx",
@@ -448,6 +475,15 @@
     "language": "UN",
     "link": "Diced.vtt",
     "notes": "Roll colored and white dice to mark off scoresheet with boxes of 2-12 trying to get as many boxes as possible.  Highest score wins."
+  },
+  {
+    "name": "Rackball",
+    "similar name": "Rack-o",
+    "similar link": "https://boardgamegeek.com/boardgame/917/rack-o",
+    "players": "2-4",
+    "language": "US",
+    "link": "Rackball.vtt",
+    "notes": "Using 60 card deck, exchange one card each turn to improve hand. Be first to arrange 10 cards from lowest to highest in hand. First to 500 points wins."
   },
   {
     "name": "Reward",
@@ -483,7 +519,25 @@
     "players": "2-4",
     "language": "US / DE / BR",
     "link": "Wordy.vtt",
-    "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins"
+    "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins."
+  },
+  {
+    "name": "Stacker",
+    "similar name": "Skip-Bo",
+    "similar link": "https://boardgamegeek.com/boardgame/1269/skip-bo",
+    "players": "2-6",
+    "language": "US",
+    "link": "Stacker.vtt",
+    "notes": "Build shared stacks of cards, deciding whether to play from hand, discard pile, or stockpile. Player that empties personal stockpile first wins."
+  },
+  {
+    "name": "Elemental",
+    "similar name": "Spicy",
+    "similar link": "https://boardgamegeek.com/boardgame/299169/spicy",
+    "players": "2-6",
+    "language": "US",
+    "link": "Elemental.vtt",
+    "notes": "Bluffing card game. Play or pass each turn while declaring card. Penalties for getting caught lieing and wrong challenges. Collect reward cards for points.  Most points wins."
   },
   {
     "name": "Splendid",
