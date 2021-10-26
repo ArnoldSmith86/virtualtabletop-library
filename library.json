@@ -81,6 +81,15 @@
     "notes": "A drinking game where players make guesses about face down cards."
   },
   {
+    "name": "Cities",
+    "similar name": "Carcassonne",
+    "similar link": "https://boardgamegeek.com/boardgame/822/carcassonne",
+    "players": "2-8",
+    "language": "US",
+    "link": "Cities.vtt",
+    "notes": "Tile-building game where players create and link farmland, cities, and roads to earn points. Optional 4 expansion packs with additional tiles, scoring system, and rules available and built-in to the main game."
+  },
+  {
     "name": "Checkers",
     "similar name": "Checkers",
     "similar link": "https://boardgamegeek.com/boardgame/2083/checkers",
@@ -369,6 +378,15 @@
     "notes": "Move tokens around board according to roll of dice.  First player to get all tokens to home wins."
   },
   {
+    "name": "Telepathy",
+    "similar name": "Mind",
+    "similar link": "https://boardgamegeek.com/boardgame/244992/mind",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Telepathy.vtt",
+    "notes": "Cooperative game where cards 1-100 must be revealed in lowest to highest order. Players may not communicate and as there is no order of play, players must get a sense of when to play and when to wait.  Team wins if all levels completed before losing its last life."
+  },
+  {
     "name": "Nine Men's Morris",
     "similar name": "Nine Men's Morris",
     "similar link": "https://boardgamegeek.com/boardgame/3886/nine-mens-morris",
@@ -531,6 +549,15 @@
     "notes": "Build shared stacks of cards, deciding whether to play from hand, discard pile, or stockpile. Player that empties personal stockpile first wins."
   },
   {
+    "name": "Roar",
+    "similar name": "Sluff Off!",
+    "similar link": "https://boardgamegeek.com/boardgame/8129/sluff",
+    "players": "3-5",
+    "language": "US",
+    "link": "Roar.vtt",
+    "notes": "Trick-taking card game with 15 cards in 5 suits. Points lost for not taking exact number of bids.  One player serves as a foil and instead of taking tricks, tries to force other players to take them.  Fewest penalty points at end of game wins."
+  },
+  {
     "name": "Elemental",
     "similar name": "Spicy",
     "similar link": "https://boardgamegeek.com/boardgame/299169/spicy",
@@ -690,7 +717,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - GET.vtt",
-    "notes": ""
+    "notes": "2 Variants: Basic, Virtual Properties"
   },
   {
     "name": "Functions - IF",
