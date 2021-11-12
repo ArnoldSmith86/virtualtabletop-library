@@ -81,6 +81,15 @@
     "notes": "A drinking game where players make guesses about face down cards."
   },
   {
+    "name": "Foreign Affairs",
+    "similar name": "Café International",
+    "similar link": "https://boardgamegeek.com/boardgame/214/cafe-international",
+    "players": "2-4",
+    "language": "US",
+    "link": "Foreign Affairs.vtt",
+    "notes": "Place tiles around tables based on country and gender. Earn points for proper seating arrangements and lose points for unused tiles. Highest score wins."
+  },
+  {
     "name": "Cities",
     "similar name": "Carcassonne",
     "similar link": "https://boardgamegeek.com/boardgame/822/carcassonne",
@@ -324,6 +333,15 @@
     "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
   },
   {
+    "name": "Shattered Dominion",
+    "similar name": "Kingdomino",
+    "similar link": "https://boardgamegeek.com/boardgame/204583/kingdomino",
+    "players": "2-4",
+    "language": "US",
+    "link": "Shattered Dominion.vtt",
+    "notes": "Place tiles consisting of images of various types of terrain to connect to a matching type of terrain already on the 5x5 board. Earn points for connecting tiles and playing bonus symbol. Most points wins."
+  },
+  {
     "name": "Moving Walls",
     "similar name": "Labyrinth",
     "similar link": "https://boardgamegeek.com/boardgame/1219/labyrinth",
@@ -349,6 +367,15 @@
     "language": "US",
     "link": "Liar's Dice.vtt",
     "notes": "Make claims about value of rolled dice to bluff opponents and get them to challenge.  Lose dice if caught in a lie.  Last player with dice wins."
+  },
+  {
+    "name": "Expeditions",
+    "similar name": "Lost Cities",
+    "similar link": "https://boardgamegeek.com/boardgame/50/lost-cities",
+    "players": "2",
+    "language": "US",
+    "link": "Expeditions.vtt",
+    "notes": "Play cards into columns in ascending numerical order. Gamble with wager cards that will multiply your positive or negative score. Highest score wins."
   },
   {
     "name": "Mancala",
@@ -379,7 +406,7 @@
   },
   {
     "name": "Telepathy",
-    "similar name": "Mind",
+    "similar name": "The Mind",
     "similar link": "https://boardgamegeek.com/boardgame/244992/mind",
     "players": "2-4",
     "language": "UN",
@@ -457,6 +484,15 @@
     "language": "US",
     "link": "Dix Dice.vtt",
     "notes": "Complete a series of levels by rolling dice in runs, sets, or colors.  First to complete 10 levels wins."
+  },
+  {
+    "name": "Imagination",
+    "similar name": "Pictures",
+    "similar link": "https://www.boardgamegeek.com/boardgame/284108/pictures",
+    "players": "3-5",
+    "language": "US",
+    "link": "Imagination.vtt",
+    "notes": "Players are assigned a random card to recreate each using different components. Players vote on which picture was recreated and points awarded for correct guesses. Most points after 5 rounds wins."
   },
   {
     "name": "Poker",
