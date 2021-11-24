@@ -333,6 +333,15 @@
     "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
   },
   {
+    "name": "Best Guess",
+    "similar name": "IOTA",
+    "similar link": "https://www.boardgamegeek.com/boardgame/254640/just-one",
+    "players": "3-8",
+    "language": "US",
+    "link": "Best Guess.vtt",
+    "notes": "Cooperative game where one player guesses word based on clues provided by other players. Try to get as many correct as possible."
+  },
+  {
     "name": "Shattered Dominion",
     "similar name": "Kingdomino",
     "similar link": "https://boardgamegeek.com/boardgame/204583/kingdomino",
@@ -690,7 +699,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - changeRoutine.vtt",
-    "notes": ""
+    "notes": "2 Variants: Sliders, globalUpdateRoutine ",
   },
   {
     "name": "Comparisons",
@@ -807,7 +816,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Hands.vtt",
-    "notes": "2 Variants: Direct Deal, Custom Visibility"
+    "notes": "3 Variants: Direct Deal, Custom Visibility, Seats"
   },
   {
     "name": "Hexagonal Cards",
@@ -871,6 +880,15 @@
     "language": "US",
     "link": "Tutorial - Menus.vtt",
     "notes": "2 Variants: Basic, Advanced"
+  },
+  {
+    "name": "Seats",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Seats.vtt",
+    "notes": "4 variants: Basic, Advanced, Turns, and Board Demo"
   },
   {
     "name": "Skip",
