@@ -693,13 +693,13 @@
     "notes": "4 Variants: Introduction, Text Only, Images, CSS Shapes"
   },
   {
-    "name": "changeRoutine",
+    "name": "Canvas",
     "similar name": "",
     "similar link": "",
     "players": "1",
     "language": "US",
-    "link": "Tutorial - changeRoutine.vtt",
-    "notes": "2 Variants: Sliders, globalUpdateRoutine"
+    "link": "Tutorial - Canvas.vtt",
+    "notes": ""
   },
   {
     "name": "Comparisons",
@@ -729,6 +729,15 @@
     "notes": ""
   },
   {
+    "name": "Functions - AUDIO",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - AUDIO.vtt",
+    "notes": ""
+  },
+  {
     "name": "Functions - CALL",
     "similar name": "",
     "similar link": "",
@@ -745,6 +754,33 @@
     "language": "US",
     "link": "Tutorial - Functions - CLICK.vtt",
     "notes": "2 Variants: Basic, Modes"
+  },
+  {
+    "name": "Functions - CLONE and DELETE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CLONE and DELETE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - COUNT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - COUNT.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - FLIP",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - FLIP.vtt",
+    "notes": ""
   },
   {
     "name": "Functions - FOREACH",
@@ -771,6 +807,33 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - IF.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - LABEL",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - LABEL.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - MOVE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - MOVE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - RECALL and SHUFFLE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - RECALL and SHUFFLE.vtt",
     "notes": ""
   },
   {
@@ -889,6 +952,15 @@
     "language": "US",
     "link": "Tutorial - Piles.vtt",
     "notes": "3 Variants: Basic, Advanced, Decoration"
+  },
+  {
+    "name": "Routines",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Routines.vtt",
+    "notes": "4 Variants: Intro and clickRoutine, enterRoutine and leaveRoutine, changeRoutine, globalUpdateRoutine"
   },
   {
     "name": "Seats",
