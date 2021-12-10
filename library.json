@@ -960,7 +960,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Routines.vtt",
-    "notes": "4 Variants: Intro and clickRoutine, enterRoutine and leaveRoutine, changeRoutine, globalUpdateRoutine"
+    "notes": "5 Variants: Intro and clickRoutine, enterRoutine and leaveRoutine, changeRoutine, globalUpdateRoutine, clickRoutine Equivalents"
   },
   {
     "name": "Seats",
