@@ -279,6 +279,15 @@
     "notes": "Classic strategy game.  Take turns placing black and white pieces on intersection of board.  Player controlling most territory wins."
   },
   {
+    "name": "Interrogation",
+    "similar name": "Guess Who?",
+    "similar link": "https://boardgamegeek.com/boardgame/4143/guess-who",
+    "players": "2",
+    "language": "US",
+    "link": "Interrogation.vtt",
+    "notes": "Take turns asking characteristics questions about photos to deduce the secret person your opponent has been assigned. First person to guess correctly wins."
+  },
+  {
     "name": "Speedy Fruits",
     "similar name": "Halli Galli",
     "similar link": "https://boardgamegeek.com/boardgame/2944/halli-galli",
@@ -621,6 +630,15 @@
     "notes": "Buy cards and gems to collect points.  First player to 15 points wins."
   },
   {
+    "name": "Capture the Flag",
+    "similar name": "Stratego",
+    "similar link": "https://boardgamegeek.com/boardgame/1917/stratego",
+    "players": "2",
+    "language": "US",
+    "link": "Capture the Flag.vtt",
+    "notes": "Strategically arrange movable army pieces, bombs, and flag on board. Attack and capture opponents pieces. First to capture opponent's flag wins."
+  },
+  {
     "name": "Tangrams",
     "similar name": "Tangrams",
     "similar link": "https://boardgamegeek.com/boardgame/23953/outside-scope-bgg",
@@ -810,6 +828,15 @@
     "notes": ""
   },
   {
+    "name": "Functions - INPUT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - INPUT.vtt",
+    "notes": ""
+  },
+  {
     "name": "Functions - LABEL",
     "similar name": "",
     "similar link": "",
@@ -825,6 +852,15 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - MOVE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - MOVEXY",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - MOVEXY.vtt",
     "notes": ""
   },
   {
@@ -852,7 +888,7 @@
     "players": "1",
     "language": "US",
     "link": "Tutorial - Functions - SELECT.vtt",
-    "notes": ""
+    "notes": "3 Variants: Basic, Relation, Mode and Rank"
   },
   {
     "name": "Functions - SORT",
@@ -1062,6 +1098,15 @@
     "notes": ""
   },
   {
+    "name": "Symbols",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Symbols.vtt",
+    "notes": "Recommended standard symbols for VTT games"
+  },
+  {
     "name": "Other Widgets",
     "similar name": "",
     "similar link": "",
@@ -1069,14 +1114,6 @@
     "language": "UN",
     "link": "Assets - Widgets.vtt",
     "notes": "5 Variants: Game Pieces, Game Boards, Buttons, Crystals, Misc Tools"
-  },
-  {
-    "name": "Universal Game Symbols",
-    "similar name": "",
-    "similar link": "",
-    "players": "1",
-    "language": "US",
-    "link": "Assets - Universal Game Symbols.vtt",
-    "notes": "Recommended standard symbols for UN games"
   }
+
 ]
