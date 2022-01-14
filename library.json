@@ -261,15 +261,6 @@
     "notes": "Place shaped pieces on board to fill in as many spaces as possible, but leaving designated scoring spaces open.  Highest score wins."
   },
   {
-    "name": "FreeCell",
-    "similar name": "FreeCell",
-    "similar link": "https://boardgamegeek.com/boardgame/63788/freecell",
-    "players": "1",
-    "language": "UN",
-    "link": "FreeCell.vtt",
-    "notes": "Classic solitare card game. Move cards one at a time to solve the puzzle."
-  },
-  {
     "name": "Go",
     "similar name": "Go",
     "similar link": "https://boardgamegeek.com/boardgame/188/go",
@@ -349,6 +340,15 @@
     "language": "US",
     "link": "Best Guess.vtt",
     "notes": "Cooperative game where one player guesses word based on clues provided by other players. Try to get as many correct as possible."
+  },
+  {
+    "name": "Lost Temples",
+    "similar name": "Karuba",
+    "similar link": "https://boardgamegeek.com/boardgame/183251/karuba",
+    "players": "2-4",
+    "language": "US",
+    "link": "Lost Temples.vtt",
+    "notes": "Tile-laying race game. Players start with identical empty boards and each place the same piece and move tokens to be the first to reach temples and collect treasure. Player with most points wins."
   },
   {
     "name": "Shattered Dominion",
@@ -612,6 +612,15 @@
     "notes": "Trick-taking card game with 15 cards in 5 suits. Points lost for not taking exact number of bids.  One player serves as a foil and instead of taking tricks, tries to force other players to take them.  Fewest penalty points at end of game wins."
   },
   {
+    "name": "Solitaire",
+    "similar name": "Solitaire",
+    "similar link": "N/A",
+    "players": "1",
+    "language": "UN",
+    "link": "Solitaire.vtt",
+    "notes": "Collection of classic solitare card games, each with its own rules and game mechanics."
+  },
+  {
     "name": "Elemental",
     "similar name": "Spicy",
     "similar link": "https://boardgamegeek.com/boardgame/299169/spicy",
@@ -637,6 +646,15 @@
     "language": "US",
     "link": "Capture the Flag.vtt",
     "notes": "Strategically arrange movable army pieces, bombs, and flag on board. Attack and capture opponents pieces. First to capture opponent's flag wins."
+  },
+  {
+    "name": "Tutti Frutti",
+    "similar name": "Sushi Go!",
+    "similar link": "https://boardgamegeek.com/boardgame/133473/sushi-go",
+    "players": "2-5",
+    "language": "US",
+    "link": "Tutti Frutti.vtt",
+    "notes": "Players choose a card from their hand to play face up, then pass the remaining cards. Repeat until all cards are played. Earn points by collecting sets of cards or being player with most of certain card. Most points after 3 rounds wins."
   },
   {
     "name": "Tangrams",
