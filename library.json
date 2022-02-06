@@ -333,6 +333,15 @@
     "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
   },
   {
+    "name": "Find the Word",
+    "similar name": "Jotto",
+    "similar link": "https://boardgamegeek.com/boardgame/11821/jotto",
+    "players": "2",
+    "language": "US",
+    "link": "Find the Word.vtt",
+    "notes": "Players secretly choose a 5-letter word. Opponents take turns guessing letters one at a time and to find out if letter is in the secret word and clues about its position. First to guess opponent's word wins."
+  },
+  {
     "name": "Best Guess",
     "similar name": "Just One",
     "similar link": "https://www.boardgamegeek.com/boardgame/254640/just-one",
@@ -603,6 +612,15 @@
     "notes": "Build shared stacks of cards, deciding whether to play from hand, discard pile, or stockpile. Player that empties personal stockpile first wins."
   },
   {
+    "name": "Oasis",
+    "similar name": "Skull",
+    "similar link": "https://boardgamegeek.com/boardgame/92415/skull",
+    "players": "3-8",
+    "language": "UN",
+    "link": "Oasis.vtt",
+    "notes": "Players start with 4 cards. Play cards face down until one player challenges. Highest bidder then flips stated number of cards. If player flips all 'good' cards and no 'bad' ones, player wins challenge. First player to win two challenges wins."
+  },
+  {
     "name": "Roar",
     "similar name": "Sluff Off!",
     "similar link": "https://boardgamegeek.com/boardgame/8129/sluff",
@@ -745,6 +763,15 @@
     "language": "US",
     "link": "Tutorial - Comparisons.vtt",
     "notes": "2 Variants: Alphanumeric, Logical"
+  },
+  {
+    "name": "CSS",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - CSS.vtt",
+    "notes": "4 Variants: Basic, Advanced, Caution, Cards"
   },
   {
     "name": "Dice",
