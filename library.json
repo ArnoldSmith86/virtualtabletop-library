@@ -639,6 +639,15 @@
     "notes": "Collection of classic solitare card games, each with its own rules and game mechanics."
   },
   {
+    "name": "Spades",
+    "similar name": "Spades",
+    "similar link": "https://boardgamegeek.com/boardgame/592/spades",
+    "players": "2-4",
+    "language": "US",
+    "link": "Spades.vtt",
+    "notes": "Classic trick-taking card game using spades as trumps. Bid anticipated number of tricks and score based on how well players do. First to agreed-upon point total wins."
+  },
+  {
     "name": "Elemental",
     "similar name": "Spicy",
     "similar link": "https://boardgamegeek.com/boardgame/299169/spicy",
