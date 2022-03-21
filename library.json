@@ -36,6 +36,15 @@
     "notes": "Classic strategy game.  Move checkers around a board to reach home while avoiding capture.  First to remove all own pieces wins."
   },
   {
+    "name": "Going Nuts",
+    "similar name": "Bananagrams",
+    "similar link": "https://boardgamegeek.com/boardgame/27225/bananagrams",
+    "players": "1-8",
+    "language": "US",
+    "link": "Going Nuts.vtt",
+    "notes": "Play letter tiles in crossword pattern until all tiles are used. First to play valid words and run out of tiles wins."
+  },
+  {
     "name": "Stratagem",
     "similar name": "Blokus",
     "similar link": "https://www.boardgamegeek.com/boardgame/2453/blokus",
@@ -207,6 +216,15 @@
     "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
   },
   {
+    "name": "Ultra",
+    "similar name": "Decrypto",
+    "similar link": "https://boardgamegeek.com/boardgame/225694/decrypto",
+    "players": "3-10",
+    "language": "US",
+    "link": "Ultra.vtt",
+    "notes": "One player on each of two teams provides clues about code words. Players attempt to correctly match clue with the code word. Teams try to guess their own codes and the other team's codes.  Play up to 8 rounds, but winner declared after two failures or two intercepts."
+  },
+  {
     "name": "Dominoes",
     "similar name": "Dominoes",
     "similar link": "https://boardgamegeek.com/boardgame/2394/dominoes",
@@ -241,6 +259,15 @@
     "language": "UN",
     "link": "Durak.vtt",
     "notes": "Alternate attacking and defending moves with cards to beating lower ranked cards and force opponent to take extra cards.  Last player to have cards in hand loses."
+  },
+  {
+    "name": "Crossed",
+    "similar name": "Encore!",
+    "similar link": "https://boardgamegeek.com/boardgame/206931/encore",
+    "players": "2-4",
+    "language": "US",
+    "link": "Crossed.vtt",
+    "notes": "Take turns rolling dice to figure out which sections on scoresheet to mark off. Player rolling dice can remove two dice and other players choose from remaining dice. Highest score wins."
   },
   {
     "name": "Don't Blow Up",
@@ -313,6 +340,15 @@
     "language": "US",
     "link": "Animal Race.vtt",
     "notes": "Move around board by collecting and spending carrots and lettuce.  First around the board having depleted all lettuce and all but 10 carrots wins."
+  },
+  {
+    "name": "Hearts",
+    "similar name": "Hearts",
+    "similar link": "https://boardgamegeek.com/boardgame/6887/hearts",
+    "players": "3-4",
+    "language": "US",
+    "link": "Hearts.vtt",
+    "notes": "Classic trick-taking card game where players try to avoid taking hearts and the queen of spades. When one player reaches agreed maximum score, player with fewest points wins."
   },
   {
     "name": "Bug Chess",
@@ -475,6 +511,15 @@
     "language": "UN",
     "link": "Tic-Tac-Toe-Tye.vtt",
     "notes": "Classic game of X's and O's with a twist; 3 different size markers fit in each square.  Link 3 colored tokens in one of 3 ways to win."
+  },
+  {
+    "name": "Flatten the Curve",
+    "similar name": "Pandemic",
+    "similar link": "https://boardgamegeek.com/boardgame/30549/pandemic",
+    "players": "2-4",
+    "language": "US",
+    "link": "Flatten the Curve.vtt",
+    "notes": "Cooperative game where players move around board to eliminate diseases. Players win by curing all four diseases and lose if diseases spread too far or cures take too long."
   },
   {
     "name": "Crafty",
@@ -664,6 +709,15 @@
     "language": "US",
     "link": "Splendid.vtt",
     "notes": "Buy cards and gems to collect points.  First player to 15 points wins."
+  },
+  {
+    "name": "Impostor",
+    "similar name": "Spyfall",
+    "similar link": "https://boardgamegeek.com/boardgame/166384/spyfall",
+    "players": "3-8",
+    "language": "UN",
+    "link": "Impostor.vtt",
+    "notes": "One player randomly assigned as impostor and all other players look at image showing a location. Players ask questions to try and figure out which player is the impostor. Impostor scores points for guessing location. Other players score points for identifying imposter. Highest score after agreed upon number of rounds wins."
   },
   {
     "name": "Capture the Flag",
