@@ -99,6 +99,15 @@
     "notes": "Place tiles around tables based on country and gender. Earn points for proper seating arrangements and lose points for unused tiles. Highest score wins."
   },
   {
+    "name": "Feline",
+    "similar name": "Calico",
+    "similar link": "https://boardgamegeek.com/boardgame/283155/calico",
+    "players": "1-4",
+    "language": "US",
+    "link": "Feline.vtt",
+    "notes": "Build a quilt using colorful hexagon tiles. Each player uses their own board. Gain points for matching patterns and colors. Most points wins."
+  },
+  {
     "name": "Cities",
     "similar name": "Carcassonne",
     "similar link": "https://boardgamegeek.com/boardgame/822/carcassonne",
@@ -261,6 +270,15 @@
     "notes": "Alternate attacking and defending moves with cards to beating lower ranked cards and force opponent to take extra cards.  Last player to have cards in hand loses."
   },
   {
+    "name": "Pennsylvania Rush",
+    "similar name": "Dutch Blitz",
+    "similar link": "https://boardgamegeek.com/boardgame/148203/dutch-blitz",
+    "players": "2-4",
+    "language": "US",
+    "link": "Pennsylvania Rush.vtt",
+    "notes": "Use deck of 40 cards in 4 suit colors and 2 genders. Play cards in ascending order and color into common piles. Earn points for playing cards and lose points for remaining cards. Most points wins."
+  },
+  {
     "name": "Crossed",
     "similar name": "Encore!",
     "similar link": "https://boardgamegeek.com/boardgame/206931/encore",
@@ -351,6 +369,15 @@
     "notes": "Classic trick-taking card game where players try to avoid taking hearts and the queen of spades. When one player reaches agreed maximum score, player with fewest points wins."
   },
   {
+    "name": "Meta",
+    "similar name": "Herbaceous",
+    "similar link": "https://boardgamegeek.com/boardgame/195314/herbaceous",
+    "players": "1-4",
+    "language": "US",
+    "link": "Meta.vtt",
+    "notes": "Collect pieces to score points. The more pieces that match the patterns (all the same, all different, multiple pairs, etc.), the more points the player earns. During turn, draw a piece and play it or put it in communal area. Most points wins."
+  },
+  {
     "name": "Bug Chess",
     "similar name": "Hive",
     "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
@@ -432,6 +459,15 @@
     "notes": "Make claims about value of rolled dice to bluff opponents and get them to challenge.  Lose dice if caught in a lie.  Last player with dice wins."
   },
   {
+    "name": "Alpaca",
+    "similar name": "L.L.A.M.A.",
+    "similar link": "https://boardgamegeek.com/boardgame/266083/llm",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Alpaca.vtt",
+    "notes": "Start with 6 cards and get rid of as many cards as possible. To play, must play same number as top card or one higher. Round ends when one player empties hand of cards or all players quit. Fewest points once another player reaches 40 points wins."
+  },
+  {
     "name": "Expeditions",
     "similar name": "Lost Cities",
     "similar link": "https://boardgamegeek.com/boardgame/50/lost-cities",
@@ -439,6 +475,15 @@
     "language": "US",
     "link": "Expeditions.vtt",
     "notes": "Play cards into columns in ascending numerical order. Gamble with wager cards that will multiply your positive or negative score. Highest score wins."
+  },
+  {
+    "name": "Courting",
+    "similar name": "Love Letter Premium",
+    "similar link": "https://boardgamegeek.com/boardgame/196326/love-letter-premium",
+    "players": "2-8",
+    "language": "US",
+    "link": "Courting.vtt",
+    "notes": "Start with one card. Then draw a card and play a card. Use card powers to expose others and knock them out of the game. First player to win designated number of rounds (4-7 based on number of players) wins."
   },
   {
     "name": "Mancala",
@@ -468,6 +513,15 @@
     "notes": "Move tokens around board according to roll of dice.  First player to get all tokens to home wins."
   },
   {
+    "name": "Mexican Train",
+    "similar name": "Mexican Train",
+    "similar link": "https://boardgamegeek.com/boardgame/11634/mexican-train",
+    "players": "2-8",
+    "language": "UN",
+    "link": "Mexican Train.vtt",
+    "notes": "Use double 6, 9, 12, or 15 dominoes depending on number of players. Starting from a common domino, play a domino that matches a previous end of the train. Play on own train, other players trains when available, or on a common Mexican train. Lowest points after desiganted number of rounds wins."
+  },
+  {
     "name": "Telepathy",
     "similar name": "The Mind",
     "similar link": "https://boardgamegeek.com/boardgame/244992/mind",
@@ -493,6 +547,15 @@
     "language": "UN",
     "link": "Ninety-Nine.vtt",
     "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
+  },
+  {
+    "name": "Ich mag keine Karten",
+    "similar name": "No Thanks!",
+    "similar link": "https://boardgamegeek.com/boardgame/12942/no-thanks",
+    "players": "3-7",
+    "language": "UN",
+    "link": "Ich mag keine Karten.vtt",
+    "notes": "Play with deck of cards numbered 3-35. Cards worth their face value, but lower if in a run. During turn, either play a chip to avoid taking a card, or pick up and play the face up card and gain chips played on it. After playing 24 cards, lowest score wins."
   },
   {
     "name": "Reversi",
@@ -619,6 +682,15 @@
     "language": "US",
     "link": "Reward.vtt",
     "notes": "Move armies around board using dice rolls to conquer territory.  Player who conquers all 42 territories wins."
+  },
+  {
+    "name": "Crow",
+    "similar name": "Rook",
+    "similar link": "https://boardgamegeek.com/boardgame/1260/rook",
+    "players": "4",
+    "language": "US",
+    "link": "Crow.vtt",
+    "notes": "Classic trick taking card game using 4 suited deck with cards 1-14 and a bird card."
   },
   {
     "name": "Rummy Tiles",
@@ -781,6 +853,15 @@
     "language": "US",
     "link": "Magician.vtt",
     "notes": "Trick taking, trump card game using a deck of 60 cards where players must take exact number of tricks bid and 8 cards have special rules.  Most points wins."
+  },
+  {
+    "name": "Five of a Kind",
+    "similar name": "Yahtzee",
+    "similar link": "https://boardgamegeek.com/boardgame/2243/yahtzee",
+    "players": "1-6",
+    "language": "US",
+    "link": "Five of a Kind.vtt",
+    "notes": "Classic dice game. Roll dice up to three times to complete designated tasks on scorecard. Highest score wins."
   },
   {
     "name": "-----Tutorials Follow-----",
