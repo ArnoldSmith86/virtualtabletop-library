@@ -387,6 +387,15 @@
     "notes": "Place hexagon tiles with bug images, with each bug moving in unique ways, to control the board. First player to surround opponent's queen wins."
   },
   {
+    "name": "Starship Pyramids",
+    "similar name": "Homeworlds",
+    "similar link": "https://boardgamegeek.com/boardgame/14634/homeworlds",
+    "players": "2",
+    "language": "UN",
+    "link": "Starship Pyramids.vtt",
+    "notes": "Abstract, free-form strategy game using upright pyramids and pyramids laying on their side. Use different size and color pyramids to represent star systems and starships. Win by destroying opponent's home star or all ships at opponent's home star."
+  },
+  {
     "name": "Tittle",
     "similar name": "IOTA",
     "similar link": "https://boardgamegeek.com/boardgame/119632/iota",
@@ -486,6 +495,15 @@
     "notes": "Start with one card. Then draw a card and play a card. Use card powers to expose others and knock them out of the game. First player to win designated number of rounds (4-7 based on number of players) wins."
   },
   {
+    "name": "Mahjong",
+    "similar name": "Mahjong",
+    "similar link": "https://boardgamegeek.com/boardgame/2093/mahjong",
+    "players": "3-4",
+    "language": "UN",
+    "link": "Mahjong.vtt",
+    "notes": "Traditional Chinese game using illustrated tiles. Take turns drawing from stock pile or other players' discards to create sets and runs from tiles in hand. Play until all tiles used then start another round. Highest score wins."
+  },
+  {
     "name": "Mancala",
     "similar name": "Mancala",
     "similar link": "https://www.boardgamegeek.com/boardgame/2448/kalah",
@@ -520,6 +538,15 @@
     "language": "UN",
     "link": "Mexican Train.vtt",
     "notes": "Use double 6, 9, 12, or 15 dominoes depending on number of players. Starting from a common domino, play a domino that matches a previous end of the train. Play on own train, other players trains when available, or on a common Mexican train. Lowest points after desiganted number of rounds wins."
+  },
+  {
+    "name": "Road Race",
+    "similar name": "Mille Bornes",
+    "similar link": "https://boardgamegeek.com/boardgame/590/mille-bornes",
+    "players": "2-6",
+    "language": "US",
+    "link": "Road Race.vtt",
+    "notes": "Play cards with various distance values until one player reaches exactly 1,000 kilometers. Play stop sign, accident, fuel, speed limit, and flat tire cards to limit opponents' travel and corresponding repair cards to resume your own travel. Highest score wins."
   },
   {
     "name": "Telepathy",
@@ -621,6 +648,15 @@
     "notes": "Complete a series of levels by rolling dice in runs, sets, or colors.  First to complete 10 levels wins."
   },
   {
+    "name": "You Can't Draw",
+    "similar name": "Pictonary",
+    "similar link": "https://boardgamegeek.com/boardgame/2281/pictionary",
+    "players": "4-16",
+    "language": "US",
+    "link": "You Cant Draw.vtt",
+    "notes": "Teams take turns assigning player to draw a word. Other team members have one minute to guess what player is drawing. If guess correct, roll dice and move around board. If guess wrong, next team draws. First team to reach end of board wins."
+  },
+  {
     "name": "Imagination",
     "similar name": "Pictures",
     "similar link": "https://www.boardgamegeek.com/boardgame/284108/pictures",
@@ -709,6 +745,15 @@
     "language": "US",
     "link": "Adedanha.vtt",
     "notes": "Starting with a random letter, list words in designated categories.  First to complete list wins."
+  },
+  {
+    "name": "Yoink!",
+    "similar name": "Scout",
+    "similar link": "https://boardgamegeek.com/boardgame/291453/scout",
+    "players": "3-5",
+    "language": "US",
+    "link": "Yoink.vtt",
+    "notes": "Play with deck with value 1-10 on one end and different 1-10 value on the other end. Once hand is dealt, cannot move cards but can rotate once. Then play sets or runs using cards in dealt order in your hand that are are higher than what opponent played. Play number of rounds equal to number of players. Highest score wins."
   },
   {
     "name": "Wordy",
@@ -918,6 +963,15 @@
     "notes": "4 Variants: Basic, Advanced, Caution, Cards"
   },
   {
+    "name": "Decks",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Decks.vtt",
+    "notes": ""
+  },
+  {
     "name": "Dice",
     "similar name": "",
     "similar link": "",
@@ -925,6 +979,15 @@
     "language": "US",
     "link": "Tutorial - Dice.vtt",
     "notes": ""
+  },
+  {
+    "name": "Enlarge",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Enlarge.vtt",
+    "notes": "2 Variants: Basic, Cards"
   },
   {
     "name": "faceTemplates",
