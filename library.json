@@ -1,0 +1,1443 @@
+[
+  {
+    "name": "Bulls",
+    "similar name": "6 nimmt!",
+    "similar link": "https://boardgamegeek.com/boardgame/432/6-nimmt",
+    "players": "2-10",
+    "language": "US",
+    "link": "Bulls.vtt",
+    "notes": "Put cards in rows in increasing numerical order to get rid of cards and force opponent to take them. Lowest score wins."
+  },
+  {
+    "name": "Flora",
+    "similar name": "Arboretum",
+    "similar link": "https://boardgamegeek.com/boardgame/140934/arboretum",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Flora.vtt",
+    "notes": "Create sets of floral cards in tiled sequences to connect the same species of flower.  Highest score wins."
+  },
+  {
+    "name": "Blue",
+    "similar name": "Azul",
+    "similar link": "https://boardgamegeek.com/boardgame/230802/azul",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Blue.vtt",
+    "notes": "Choose colored tiles to place on board in matching colors with extra points for specific patterns and sets.  Highest score wins."
+  },
+  {
+    "name": "Backgammon",
+    "similar name": "Backgammon",
+    "similar link": "https://boardgamegeek.com/boardgame/2397/backgammon",
+    "players": "2",
+    "language": "UN",
+    "link": "Backgammon.vtt",
+    "notes": "Classic strategy game.  Move checkers around a board to reach home while avoiding capture.  First to remove all own pieces wins."
+  },
+  {
+    "name": "Going Nuts",
+    "similar name": "Bananagrams",
+    "similar link": "https://boardgamegeek.com/boardgame/27225/bananagrams",
+    "players": "1-8",
+    "language": "US",
+    "link": "Going Nuts.vtt",
+    "notes": "Play letter tiles in crossword pattern until all tiles are used. First to play valid words and run out of tiles wins."
+  },
+  {
+    "name": "Stratagem",
+    "similar name": "Blokus",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2453/blokus",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Stratagem.vtt",
+    "notes": "Place colored shapes onto board with corners touching.  Fewest unit squares remaning wins."
+  },
+  {
+    "name": "Bhukhar",
+    "similar name": "Bhukhar",
+    "similar link": "https://www.boardgamegeek.com/boardgame/15878/rummy",
+    "players": "4,6,8",
+    "language": "GB",
+    "link": "Bhukhar.vtt",
+    "notes": "Team game in Rummy family.  Cards played in sets or sequences earn points according to card value.  Team with most points wins."
+  },
+  {
+    "name": "Zookeeper",
+    "similar name": "Bohnanza",
+    "similar link": "https://boardgamegeek.com/boardgame/11/bohnanza",
+    "players": "3-5",
+    "language": "US",
+    "link": "Zookeeper.vtt",
+    "notes": "Collect animal cards and play in order picked up. Trade cards to improve hand. Collect coins based on strength of play. Most coins at end of game wins."
+  },
+  {
+    "name": "Whisky Cat",
+    "similar name": "Brändi Dog",
+    "similar link": "https://boardgamegeek.com/boardgame/2633/dog",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Whisky Cat.vtt",
+    "notes": "Move tokens from home around board to target area using card powers.  First to move all pieces to target wins."
+  },
+  {
+    "name": "Bus Driver",
+    "similar name": "Bus Driver",
+    "similar link": "",
+    "players": "2+",
+    "language": "US",
+    "link": "Bus Driver.vtt",
+    "notes": "A drinking game where players make guesses about face down cards."
+  },
+  {
+    "name": "Foreign Affairs",
+    "similar name": "Café International",
+    "similar link": "https://boardgamegeek.com/boardgame/214/cafe-international",
+    "players": "2-4",
+    "language": "US",
+    "link": "Foreign Affairs.vtt",
+    "notes": "Place tiles around tables based on country and gender. Earn points for proper seating arrangements and lose points for unused tiles. Highest score wins."
+  },
+  {
+    "name": "Feline",
+    "similar name": "Calico",
+    "similar link": "https://boardgamegeek.com/boardgame/283155/calico",
+    "players": "1-4",
+    "language": "US",
+    "link": "Feline.vtt",
+    "notes": "Build a quilt using colorful hexagon tiles. Each player uses their own board. Gain points for matching patterns and colors. Most points wins."
+  },
+  {
+    "name": "Cities",
+    "similar name": "Carcassonne",
+    "similar link": "https://boardgamegeek.com/boardgame/822/carcassonne",
+    "players": "2-8",
+    "language": "US",
+    "link": "Cities.vtt",
+    "notes": "Tile-building game where players create and link farmland, cities, and roads to earn points. Optional 4 expansion packs with additional tiles, scoring system, and rules available and built-in to the main game."
+  },
+  {
+    "name": "Checkers",
+    "similar name": "Checkers",
+    "similar link": "https://boardgamegeek.com/boardgame/2083/checkers",
+    "players": "2",
+    "language": "UN",
+    "link": "Checkers.vtt",
+    "notes": "Classic strategy game, also known as draughts.  Move pieces diagonally around board.  First to capture all opponent pieces wins."
+  },
+  {
+    "name": "Chess",
+    "similar name": "Chess",
+    "similar link": "https://boardgamegeek.com/boardgame/171/chess",
+    "players": "2",
+    "language": "UN",
+    "link": "Chess.vtt",
+    "notes": "Classic strategy game.  Move pawns, queens, rooks, etc. in defined patterns around board. First to capture opponent king piece wins."
+  },
+  {
+    "name": "Downtown",
+    "similar name": "Chinatown",
+    "similar link": "https://www.boardgamegeek.com/boardgame/47/chinatown",
+    "players": "3-6",
+    "language": "US",
+    "link": "Downtown.vtt",
+    "notes": "Get ownership of sections of city block through luck and negotiation and build matching business through six rounds.  Most money wins. "
+  },
+  {
+    "name": "Chinese Checkers",
+    "similar name": "Chinese Checkers",
+    "similar link": "https://boardgamegeek.com/boardgame/2386/chinese-checkers",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Chinese Checkers.vtt",
+    "notes": "Jump over own or opponent pieces to move to opposite side of board.  First to relocate all 10 pieces wins."
+  },
+  {
+    "name": "Chinese Chess",
+    "similar name": "Chinese Chess",
+    "similar link": "https://boardgamegeek.com/boardgame/2393/xiangqi",
+    "players": "2",
+    "language": "CN / UN",
+    "link": "Xiangqi.vtt",
+    "notes": "Classic strategy game.  Move pieces in defined patterns around intersecting lines on board. First to capture opponent general/marshal piece wins."
+  },
+  {
+    "name": "Undercover",
+    "similar name": "Codenames",
+    "similar link": "https://boardgamegeek.com/boardgame/178900/codenames",
+    "players": "4+",
+    "language": "US / DE / BR",
+    "link": "Undercover.vtt",
+    "notes": "Team leader gives team member clues so they can guess words.  First team to guess all words without getting the assasin card wins."
+  },
+  {
+    "name": "Undercover Duo",
+    "similar name": "Codenames Duet",
+    "similar link": "https://boardgamegeek.com/boardgame/224037/codenames-duet",
+    "players": "2",
+    "language": "US / DE / BR",
+    "link": "Undercover Duo.vtt",
+    "notes": "Cooperative word guessing game.  Give your partner clues to guess words without getting the assasin card."
+  },
+  {
+    "name": "Quad Line",
+    "similar name": "Connect Four",
+    "similar link": "https://boardgamegeek.com/boardgame/2719/connect-four",
+    "players": "2",
+    "language": "UN",
+    "link": "Quad Line.vtt",
+    "notes": "Stack checkers in columns to link 4 horizontally, vertically, or diagonally.  First to connect four in a row wins."
+  },
+  {
+    "name": "Quad Line 3D",
+    "similar name": "Connect Four 3D",
+    "similar link": "https://boardgamegeek.com/boardgame/3656/score-four",
+    "players": "2",
+    "language": "UN",
+    "link": "Quad Line 3D.vtt",
+    "notes": "Stack checkers in 3-dimensional columns to link 4 horizontally, vertically, or diagonally.  First to connect four in a row wins."
+  },
+  {
+    "name": "Diplomacy",
+    "similar name": "Coup",
+    "similar link": "https://boardgamegeek.com/boardgame/131357/coup",
+    "players": "2-6",
+    "language": "US",
+    "link": "Diplomacy.vtt",
+    "notes": "Use card powers to influence other players.  Tell the truth, lie, or steal to gain advantage.  Last player with an influence card remaining wins."
+  },
+  {
+    "name": "The Team",
+    "similar name": "The Crew: The Quest for Planet Nine",
+    "similar link": "https://www.boardgamegeek.com/boardgame/284083/crew-quest-planet-nine",
+    "players": "2-5",
+    "language": "US",
+    "link": "The Team.vtt",
+    "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
+  },
+  {
+    "name": "The Team II",
+    "similar name": "The Crew: Mission Deep Sea",
+    "similar link": "https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea",
+    "players": "2-5",
+    "language": "US",
+    "link": "The Team II.vtt",
+    "notes": "Cooperative trick taking card game. Work together on mission tasks to ensure that certain tricks are taken by certain players, all while not revealing your hand."
+  },
+  {
+    "name": "Ultra",
+    "similar name": "Decrypto",
+    "similar link": "https://boardgamegeek.com/boardgame/225694/decrypto",
+    "players": "3-10",
+    "language": "US",
+    "link": "Ultra.vtt",
+    "notes": "One player on each of two teams provides clues about code words. Players attempt to correctly match clue with the code word. Teams try to guess their own codes and the other team's codes.  Play up to 8 rounds, but winner declared after two failures or two intercepts."
+  },
+  {
+    "name": "Dominoes",
+    "similar name": "Dominoes",
+    "similar link": "https://boardgamegeek.com/boardgame/2394/dominoes",
+    "players": "2-5",
+    "language": "UN",
+    "link": "Dominoes.vtt",
+    "notes": "Classic tile-based strategy game using dominoes with 0 to 6 pips.  Multiple rule variations and winning conditions."
+  },
+  {
+    "name": "Dots",
+    "similar name": "Dots and Dashes",
+    "similar link": "https://boardgamegeek.com/boardgame/17106/boxes",
+    "players": "2",
+    "language": "UN",
+    "link": "Dots.vtt",
+    "notes": "Add lines to complete squares.  Most completed squares wins."
+  },
+  {
+    "name": "Duel 52",
+    "similar name": "Duel 52",
+    "similar link": "https://boardgamegeek.com/boardgame/291674/duel-52",
+    "players": "2",
+    "language": "US",
+    "link": "Duel 52.vtt",
+    "notes": "Use card powers to remove opponent cards on three lanes on the board.  First player to control two lanes wins."
+  },
+  {
+    "name": "Durak",
+    "similar name": "Durak",
+    "similar link": "https://boardgamegeek.com/boardgame/29351/durak",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Durak.vtt",
+    "notes": "Alternate attacking and defending moves with cards to beating lower ranked cards and force opponent to take extra cards.  Last player to have cards in hand loses."
+  },
+  {
+    "name": "Pennsylvania Rush",
+    "similar name": "Dutch Blitz",
+    "similar link": "https://boardgamegeek.com/boardgame/148203/dutch-blitz",
+    "players": "2-4",
+    "language": "US",
+    "link": "Pennsylvania Rush.vtt",
+    "notes": "Use deck of 40 cards in 4 suit colors and 2 genders. Play cards in ascending order and color into common piles. Earn points for playing cards and lose points for remaining cards. Most points wins."
+  },
+  {
+  "name": "Forces of Nature",
+  "similar name": "Elements",
+  "similar link": "https://boardgamegeek.com/boardgame/73313/elements",
+  "players": "2",
+  "language": "US",
+  "link": "Forces of Nature.vtt",
+  "notes": "Use a 16 card deck consisting of numbers 1 to 6. During turn, either play, draw, discard, knock, or fold. Goal is have higher sum than opponent but equal or less than sum played on table. Winner of each round gets 1 or 2 points. First player to 6 points wins."
+  },
+  {
+    "name": "Crossed",
+    "similar name": "Encore!",
+    "similar link": "https://boardgamegeek.com/boardgame/206931/encore",
+    "players": "2-4",
+    "language": "US",
+    "link": "Crossed.vtt",
+    "notes": "Take turns rolling dice to figure out which sections on scoresheet to mark off. Player rolling dice can remove two dice and other players choose from remaining dice. Highest score wins."
+  },
+  {
+    "name": "Don't Blow Up",
+    "similar name": "Exploding Kittens",
+    "similar link": "https://boardgamegeek.com/boardgame/172225/exploding-kittens",
+    "players": "2-5",
+    "language": "US",
+    "link": "Don't Blow Up.vtt",
+    "notes": "Take turns drawing cards, using card powers to avoid getting the explosion card.  First player to get explosion card loses. "
+  },
+  {
+    "name": "Tantrums",
+    "similar name": "Fits",
+    "similar link": "https://boardgamegeek.com/boardgame/40393/fits",
+    "players": "1-4",
+    "language": "UN",
+    "link": "Tantrums.vtt",
+    "notes": "Place shaped pieces on board to fill in as many spaces as possible, but leaving designated scoring spaces open.  Highest score wins."
+  },
+  {
+    "name": "Dog Eat Dog World",
+    "similar name": "Food Chain Island",
+    "similar link": "https://boardgamegeek.com/boardgame/309110/food-chain-island",
+    "players": "1",
+    "language": "US",
+    "link": "Dog Eat Dog World.vtt",
+    "notes": "Starting with grid of 16 cards representing animals, move card to eat another smaller, adjacent animal card. Then activate the special power of the eating animal. Game ends when player cannot move to eat an animal. Goal is to have only one animal card remaining."
+  },
+  {
+    "name": "Go",
+    "similar name": "Go",
+    "similar link": "https://boardgamegeek.com/boardgame/188/go",
+    "players": "2",
+    "language": "UN",
+    "link": "Go.vtt",
+    "notes": "Classic strategy game.  Take turns placing black and white pieces on intersection of board.  Player controlling most territory wins."
+  },
+  {
+    "name": "Interrogation",
+    "similar name": "Guess Who?",
+    "similar link": "https://boardgamegeek.com/boardgame/4143/guess-who",
+    "players": "2",
+    "language": "US",
+    "link": "Interrogation.vtt",
+    "notes": "Take turns asking characteristics questions about photos to deduce the secret person your opponent has been assigned. First person to guess correctly wins."
+  },
+  {
+    "name": "Speedy Fruits",
+    "similar name": "Halli Galli",
+    "similar link": "https://boardgamegeek.com/boardgame/2944/halli-galli",
+    "players": "2-8",
+    "language": "US",
+    "link": "Speedy Fruits.vtt",
+    "notes": "Flip cards to reveal matching fruits and ring bell when 5 of a kind are displayed to win opponent cards.  Player with most cards wins."
+  },
+  {
+    "name": "Fireworks",
+    "similar name": "Hanabi",
+    "similar link": "https://boardgamegeek.com/boardgame/98778/hanabi",
+    "players": "2-5",
+    "language": "US",
+    "link": "Fireworks.vtt",
+    "notes": "Cooperative card tile laying game.  Work together to complete the pattern before running out of cards and while never looking at your own cards."
+  },
+  {
+    "name": "Hangman",
+    "similar name": "Hangman",
+    "similar link": "https://boardgamegeek.com/boardgame/5314/hangman",
+    "players": "1-8",
+    "language": "US / BR",
+    "link": "Hangman.vtt",
+    "notes": "Guess letters to complete a word before the hangman image is filled in."
+  },
+  {
+    "name": "Animal Race",
+    "similar name": "Hare & Tortoise",
+    "similar link": "https://boardgamegeek.com/boardgame/361/hare-tortoise",
+    "players": "2-6",
+    "language": "US",
+    "link": "Animal Race.vtt",
+    "notes": "Move around board by collecting and spending carrots and lettuce.  First around the board having depleted all lettuce and all but 10 carrots wins."
+  },
+  {
+    "name": "Hearts",
+    "similar name": "Hearts",
+    "similar link": "https://boardgamegeek.com/boardgame/6887/hearts",
+    "players": "3-4",
+    "language": "US",
+    "link": "Hearts.vtt",
+    "notes": "Classic trick-taking card game where players try to avoid taking hearts and the queen of spades. When one player reaches agreed maximum score, player with fewest points wins."
+  },
+  {
+    "name": "Meta",
+    "similar name": "Herbaceous",
+    "similar link": "https://boardgamegeek.com/boardgame/195314/herbaceous",
+    "players": "1-4",
+    "language": "US",
+    "link": "Meta.vtt",
+    "notes": "Collect pieces to score points. The more pieces that match the patterns (all the same, all different, multiple pairs, etc.), the more points the player earns. During turn, draw a piece and play it or put it in communal area. Most points wins."
+  },
+  {
+    "name": "Bug Chess",
+    "similar name": "Hive",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2655/hive",
+    "players": "2",
+    "language": "US",
+    "link": "Bug Chess.vtt",
+    "notes": "Place hexagon tiles with bug images, with each bug moving in unique ways, to control the board. First player to surround opponent's queen wins."
+  },
+  {
+    "name": "Starship Pyramids",
+    "similar name": "Homeworlds",
+    "similar link": "https://boardgamegeek.com/boardgame/14634/homeworlds",
+    "players": "2",
+    "language": "UN",
+    "link": "Starship Pyramids.vtt",
+    "notes": "Abstract, free-form strategy game using upright pyramids and pyramids laying on their side. Use different size and color pyramids to represent star systems and starships. Win by destroying opponent's home star or all ships at opponent's home star."
+  },
+  {
+    "name": "Tittle",
+    "similar name": "IOTA",
+    "similar link": "https://boardgamegeek.com/boardgame/119632/iota",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Tittle.vtt",
+    "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
+  },
+  {
+    "name": "Agra",
+    "similar name": "Jaipur",
+    "similar link": "https://boardgamegeek.com/boardgame/54043/jaipur",
+    "players": "2",
+    "language": "UN",
+    "link": "Agra.vtt",
+    "notes": "Players take turns either taking cards from common market area or selling cards in exchange for 6 different goods tokens worth varying points. Play until card pile is depleted or 3 types of goods are depleted. Most points at end of round wins the round. First to win 2 rounds is overall winner."
+  },
+  {
+    "name": "Find the Word",
+    "similar name": "Jotto",
+    "similar link": "https://boardgamegeek.com/boardgame/11821/jotto",
+    "players": "2",
+    "language": "US",
+    "link": "Find the Word.vtt",
+    "notes": "Players secretly choose a 5-letter word. Opponents take turns guessing letters one at a time and to find out if letter is in the secret word and clues about its position. First to guess opponent's word wins."
+  },
+  {
+    "name": "Best Guess",
+    "similar name": "Just One",
+    "similar link": "https://www.boardgamegeek.com/boardgame/254640/just-one",
+    "players": "3-8",
+    "language": "US",
+    "link": "Best Guess.vtt",
+    "notes": "Cooperative game where one player guesses word based on clues provided by other players. Try to get as many correct as possible."
+  },
+  {
+    "name": "Lost Temples",
+    "similar name": "Karuba",
+    "similar link": "https://boardgamegeek.com/boardgame/183251/karuba",
+    "players": "2-4",
+    "language": "US",
+    "link": "Lost Temples.vtt",
+    "notes": "Tile-laying race game. Players start with identical empty boards and each place the same piece and move tokens to be the first to reach temples and collect treasure. Player with most points wins."
+  },
+  {
+    "name": "Shattered Dominion",
+    "similar name": "Kingdomino",
+    "similar link": "https://boardgamegeek.com/boardgame/204583/kingdomino",
+    "players": "2-4",
+    "language": "US",
+    "link": "Shattered Dominion.vtt",
+    "notes": "Place tiles consisting of images of various types of terrain to connect to a matching type of terrain already on the 5x5 board. Earn points for connecting tiles and playing bonus symbol. Most points wins."
+  },
+  {
+    "name": "Moving Walls",
+    "similar name": "Labyrinth",
+    "similar link": "https://boardgamegeek.com/boardgame/1219/labyrinth",
+    "players": "2-4",
+    "language": "US",
+    "link": "Moving Walls.vtt",
+    "notes": "Shift tiles on board to complete maze pattern to collect treasure and block opponents.  First to collect treasure pieces wins."
+  },
+  {
+    "name": "Moving Walls 3D",
+    "similar name": "3D Labyrinth",
+    "similar link": "https://boardgamegeek.com/boardgame/274205/3d-labyrinth",
+    "players": "2-4",
+    "language": "US",
+    "link": "Moving Walls 3D.vtt",
+    "notes": "Shift tiles on 3D board to complete a pattern to collect treasure and block opponents.  First to collect treasure pieces wins."
+  },
+  {
+    "name": "Liar's Dice",
+    "similar name": "Liar's Dice",
+    "similar link": "https://boardgamegeek.com/boardgame/45/perudo",
+    "players": "2-8",
+    "language": "US",
+    "link": "Liar's Dice.vtt",
+    "notes": "Make claims about value of rolled dice to bluff opponents and get them to challenge.  Lose dice if caught in a lie.  Last player with dice wins."
+  },
+  {
+    "name": "Alpaca",
+    "similar name": "L.L.A.M.A.",
+    "similar link": "https://boardgamegeek.com/boardgame/266083/llm",
+    "players": "2-6",
+    "language": "UN",
+    "link": "Alpaca.vtt",
+    "notes": "Start with 6 cards and get rid of as many cards as possible. To play, must play same number as top card or one higher. Round ends when one player empties hand of cards or all players quit. Fewest points once another player reaches 40 points wins."
+  },
+  {
+    "name": "Expeditions",
+    "similar name": "Lost Cities",
+    "similar link": "https://boardgamegeek.com/boardgame/50/lost-cities",
+    "players": "2",
+    "language": "US",
+    "link": "Expeditions.vtt",
+    "notes": "Play cards into columns in ascending numerical order. Gamble with wager cards that will multiply your positive or negative score. Highest score wins."
+  },
+  {
+    "name": "Courting",
+    "similar name": "Love Letter Premium",
+    "similar link": "https://boardgamegeek.com/boardgame/196326/love-letter-premium",
+    "players": "2-8",
+    "language": "US",
+    "link": "Courting.vtt",
+    "notes": "Start with one card. Then draw a card and play a card. Use card powers to expose others and knock them out of the game. First player to win designated number of rounds (4-7 based on number of players) wins."
+  },
+  {
+    "name": "Mahjong",
+    "similar name": "Mahjong",
+    "similar link": "https://boardgamegeek.com/boardgame/2093/mahjong",
+    "players": "3-4",
+    "language": "UN",
+    "link": "Mahjong.vtt",
+    "notes": "Traditional Chinese game using illustrated tiles. Take turns drawing from stock pile or other players' discards to create sets and runs from tiles in hand. Play until all tiles used then start another round. Highest score wins."
+  },
+  {
+    "name": "Mancala",
+    "similar name": "Mancala",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2448/kalah",
+    "players": "2",
+    "language": "US",
+    "link": "Mancala.vtt",
+    "notes": "Move marbles around pits in board to collect your own and opponents marbles.  Player with most marbles wins."
+  },
+  {
+    "name": "Pairs",
+    "similar name": "Memory",
+    "similar link": "https://boardgamegeek.com/boardgame/7688/memory",
+    "players": "2-8",
+    "language": "US",
+    "link": "Pairs.vtt",
+    "notes": "Remember where items are hidden to successfully make matches and win pairs.  Player with most matching pairs wins."
+  },
+  {
+    "name": "It's Just a Game, Chill",
+    "similar name": "Mensch ärgere Dich nicht",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2136/pachisi",
+    "players": "2-6",
+    "language": "UN",
+    "link": "It's Just a Game, Chill.vtt",
+    "notes": "Move tokens around board according to roll of dice.  First player to get all tokens to home wins."
+  },
+  {
+    "name": "Mexican Train",
+    "similar name": "Mexican Train",
+    "similar link": "https://boardgamegeek.com/boardgame/11634/mexican-train",
+    "players": "2-8",
+    "language": "UN",
+    "link": "Mexican Train.vtt",
+    "notes": "Use double 6, 9, 12, or 15 dominoes depending on number of players. Starting from a common domino, play a domino that matches a previous end of the train. Play on own train, other players trains when available, or on a common Mexican train. Lowest points after desiganted number of rounds wins."
+  },
+  {
+    "name": "Road Race",
+    "similar name": "Mille Bornes",
+    "similar link": "https://boardgamegeek.com/boardgame/590/mille-bornes",
+    "players": "2-6",
+    "language": "US",
+    "link": "Road Race.vtt",
+    "notes": "Play cards with various distance values until one player reaches exactly 1,000 kilometers. Play stop sign, accident, fuel, speed limit, and flat tire cards to limit opponents' travel and corresponding repair cards to resume your own travel. Highest score wins."
+  },
+  {
+    "name": "Telepathy",
+    "similar name": "The Mind",
+    "similar link": "https://boardgamegeek.com/boardgame/244992/mind",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Telepathy.vtt",
+    "notes": "Cooperative game where cards 1-100 must be revealed in lowest to highest order. Players may not communicate and as there is no order of play, players must get a sense of when to play and when to wait.  Team wins if all levels completed before losing its last life."
+  },
+  {
+    "name": "Nine Men's Morris",
+    "similar name": "Nine Men's Morris",
+    "similar link": "https://boardgamegeek.com/boardgame/3886/nine-mens-morris",
+    "players": "2",
+    "language": "UN",
+    "link": "Nine Men's Morris.vtt",
+    "notes": "Place and slide pieces to intersections of board to make lines of three and remove opponents piece.  First player to have 2 pieces remaining loses."
+  },
+  {
+    "name": "Ninety-Nine",
+    "similar name": "Ninety-Nine",
+    "similar link": "https://www.boardgamegeek.com/boardgame/6688/ninety-nine",
+    "players": "3",
+    "language": "UN",
+    "link": "Ninety-Nine.vtt",
+    "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
+  },
+  {
+    "name": "No Cheese No Coin",
+    "similar name": "No Cheese No Coin",
+    "similar link": "https://www.srafferty.com/nocheesenocoin",
+    "players": "3-6",
+    "language": "US",
+    "link": "No Cheese No Coin.vtt",
+    "notes": "Collect coin and cheese cards. Play cheese card to use its special powers. Play until deck is depleted or 10 minute timer expires. Player with most coin cards at end wins."
+  },
+  {
+    "name": "Ich mag keine Karten",
+    "similar name": "No Thanks!",
+    "similar link": "https://boardgamegeek.com/boardgame/12942/no-thanks",
+    "players": "3-7",
+    "language": "UN",
+    "link": "Ich mag keine Karten.vtt",
+    "notes": "Play with deck of cards numbered 3-35. Cards worth their face value, but lower if in a run. During turn, either play a chip to avoid taking a card, or pick up and play the face up card and gain chips played on it. After playing 24 cards, lowest score wins."
+  },
+  {
+    "name": "Reversi",
+    "similar name": "Othello",
+    "similar link": "https://boardgamegeek.com/boardgame/2389/othello",
+    "players": "2",
+    "language": "UN",
+    "link": "Reversi.vtt",
+    "notes": "Classic strategy game using two-sided discs on an 8x8 board placed to try and capture opponent pieces. Player with most of colored discs on board wins."
+  },
+  {
+    "name": "Tic-Tac-Toe-Tye",
+    "similar name": "Otrio",
+    "similar link": "https://www.boardgamegeek.com/boardgame/188465/otrio",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Tic-Tac-Toe-Tye.vtt",
+    "notes": "Classic game of X's and O's with a twist; 3 different size markers fit in each square.  Link 3 colored tokens in one of 3 ways to win."
+  },
+  {
+    "name": "Flatten the Curve",
+    "similar name": "Pandemic",
+    "similar link": "https://boardgamegeek.com/boardgame/30549/pandemic",
+    "players": "2-4",
+    "language": "US",
+    "link": "Flatten the Curve.vtt",
+    "notes": "Cooperative game where players move around board to eliminate diseases. Players win by curing all four diseases and lose if diseases spread too far or cures take too long."
+  },
+  {
+    "name": "Crafty",
+    "similar name": "Patchwork",
+    "similar link": "https://boardgamegeek.com/boardgame/163412/patchwork",
+    "players": "2",
+    "language": "UN",
+    "link": "Crafty.vtt",
+    "notes": "Placed shaped pieces on board to fill in spaces while balancing cost of pieces and token position on progress board.  Most points wins."
+  },
+  {
+    "name": "Spin 5",
+    "similar name": "Pentago",
+    "similar link": "https://boardgamegeek.com/boardgame/21012/pentago-xl",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Spin 5.vtt",
+    "notes": "Place marble into a space on four connected and rotating 3x3 grids. Connect five marbles in a row to win."
+  },
+  {
+    "name": "Dix Cards",
+    "similar name": "Phase 10",
+    "similar link": "https://boardgamegeek.com/boardgame/1258/phase-10",
+    "players": "2-6",
+    "language": "US",
+    "link": "Dix Cards.vtt",
+    "notes": "Complete a series of levels by laying down cards in runs, sets, or colors.  First to complete 10 levels wins."
+  },
+  {
+    "name": "Dix Dice",
+    "similar name": "Phase 10 Dice",
+    "similar link": "https://boardgamegeek.com/boardgame/2578/phase-10-dice",
+    "players": "1-6",
+    "language": "US",
+    "link": "Dix Dice.vtt",
+    "notes": "Complete a series of levels by rolling dice in runs, sets, or colors.  First to complete 10 levels wins."
+  },
+  {
+    "name": "You Can't Draw",
+    "similar name": "Pictonary",
+    "similar link": "https://boardgamegeek.com/boardgame/2281/pictionary",
+    "players": "4-16",
+    "language": "US",
+    "link": "You Cant Draw.vtt",
+    "notes": "Teams take turns assigning player to draw a word. Other team members have one minute to guess what player is drawing. If guess correct, roll dice and move around board. If guess wrong, next team draws. First team to reach end of board wins."
+  },
+  {
+    "name": "Imagination",
+    "similar name": "Pictures",
+    "similar link": "https://www.boardgamegeek.com/boardgame/284108/pictures",
+    "players": "3-5",
+    "language": "US",
+    "link": "Imagination.vtt",
+    "notes": "Players are assigned a random card to recreate each using different components. Players vote on which picture was recreated and points awarded for correct guesses. Most points after 5 rounds wins."
+  },
+  {
+    "name": "Poker",
+    "similar name": "Poker",
+    "similar link": "https://boardgamegeek.com/boardgame/1115/poker",
+    "players": "2-6",
+    "language": "US",
+    "link": "Poker.vtt",
+    "notes": "Use regular deck of 52 cards to form hands higher than opponents, or bluff them into believing your hand is higher.  Multiple rule variations and winning conditions."
+  },
+  {
+    "name": "Alleys",
+    "similar name": "Quoridor",
+    "similar link": "https://boardgamegeek.com/boardgame/624/quoridor",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Alleys.vtt",
+    "notes": "Build walls to create corridors to move token and to block opponent.  First to cross to other side of board wins."
+  },
+  {
+    "name": "Shape Sorter",
+    "similar name": "Qwirkle",
+    "similar link": "https://boardgamegeek.com/boardgame/25669/qwirkle",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Shape Sorter.vtt",
+    "notes": "Place blocks in patterns on board while matching 6 shapes and 6 colors.  Player with most points wins."
+  },
+  {
+    "name": "Diced",
+    "similar name": "Qwixx",
+    "similar link": "https://boardgamegeek.com/boardgame/131260/qwixx",
+    "players": "2-8",
+    "language": "UN",
+    "link": "Diced.vtt",
+    "notes": "Roll colored and white dice to mark off scoresheet with boxes of 2-12 trying to get as many boxes as possible.  Highest score wins."
+  },
+  {
+    "name": "Rackball",
+    "similar name": "Rack-o",
+    "similar link": "https://boardgamegeek.com/boardgame/917/rack-o",
+    "players": "2-4",
+    "language": "US",
+    "link": "Rackball.vtt",
+    "notes": "Using 60 card deck, exchange one card each turn to improve hand. Be first to arrange 10 cards from lowest to highest in hand. First to 500 points wins."
+  },
+  {
+    "name": "Reward",
+    "similar name": "Risk",
+    "similar link": "https://boardgamegeek.com/boardgame/181/risk",
+    "players": "2-6",
+    "language": "US",
+    "link": "Reward.vtt",
+    "notes": "Move armies around board using dice rolls to conquer territory.  Player who conquers all 42 territories wins."
+  },
+  {
+    "name": "Crow",
+    "similar name": "Rook",
+    "similar link": "https://boardgamegeek.com/boardgame/1260/rook",
+    "players": "4",
+    "language": "US",
+    "link": "Crow.vtt",
+    "notes": "Classic trick taking card game using 4 suited deck with cards 1-14 and a bird card."
+  },
+  {
+    "name": "Rummy Tiles",
+    "similar name": "Rummikub",
+    "similar link": "https://www.boardgamegeek.com/boardgame/811/rummikub",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Rummy Tiles.vtt",
+    "notes": "Rearrange the tiles to make sets and runs. First to play all their tiles wins."
+  },
+  {
+    "name": "Adedanha",
+    "similar name": "Scattergories",
+    "similar link": "https://www.boardgamegeek.com/boardgame/2381/scattergories",
+    "players": "2-8",
+    "language": "US",
+    "link": "Adedanha.vtt",
+    "notes": "Starting with a random letter, list words in designated categories.  First to complete list wins."
+  },
+  {
+    "name": "Yoink!",
+    "similar name": "Scout",
+    "similar link": "https://boardgamegeek.com/boardgame/291453/scout",
+    "players": "3-5",
+    "language": "US",
+    "link": "Yoink.vtt",
+    "notes": "Play with deck with value 1-10 on one end and different 1-10 value on the other end. Once hand is dealt, cannot move cards but can rotate once. Then play sets or runs using cards in dealt order in your hand that are are higher than what opponent played. Play number of rounds equal to number of players. Highest score wins."
+  },
+  {
+    "name": "Wordy",
+    "similar name": "Scrabble",
+    "similar link": "https://boardgamegeek.com/boardgame/320/scrabble",
+    "players": "2-4",
+    "language": "US / DE / BR",
+    "link": "Wordy.vtt",
+    "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins."
+  },
+  {
+    "name": "Scrappet Kaiser Princess",
+    "similar name": "Scrappet Kaiser Princess",
+    "similar link": "https://zoql.itch.io/scrappetkaiserprincess",
+    "players": "1",
+    "language": "US",
+    "link": "Scrappet Kaiser Princess.vtt",
+    "notes": "Place workers on game board and assign them tasks of earning money, buying cards, trading for cards, or dueling for cards. Play 7 rounds and earn as many points as possible. Compare against game ending point chart to see how well you did."
+  },
+  {
+    "name": "Stacker",
+    "similar name": "Skip-Bo",
+    "similar link": "https://boardgamegeek.com/boardgame/1269/skip-bo",
+    "players": "2-6",
+    "language": "US",
+    "link": "Stacker.vtt",
+    "notes": "Build shared stacks of cards, deciding whether to play from hand, discard pile, or stockpile. Player that empties personal stockpile first wins."
+  },
+  {
+    "name": "Oasis",
+    "similar name": "Skull",
+    "similar link": "https://boardgamegeek.com/boardgame/92415/skull",
+    "players": "3-8",
+    "language": "UN",
+    "link": "Oasis.vtt",
+    "notes": "Players start with 4 cards. Play cards face down until one player challenges. Highest bidder then flips stated number of cards. If player flips all 'good' cards and no 'bad' ones, player wins challenge. First player to win two challenges wins."
+  },
+  {
+    "name": "Roar",
+    "similar name": "Sluff Off!",
+    "similar link": "https://boardgamegeek.com/boardgame/8129/sluff",
+    "players": "3-5",
+    "language": "US",
+    "link": "Roar.vtt",
+    "notes": "Trick-taking card game with 15 cards in 5 suits. Points lost for not taking exact number of bids.  One player serves as a foil and instead of taking tricks, tries to force other players to take them.  Fewest penalty points at end of game wins."
+  },
+  {
+    "name": "Solitaire",
+    "similar name": "Solitaire",
+    "similar link": "N/A",
+    "players": "1",
+    "language": "UN",
+    "link": "Solitaire.vtt",
+    "notes": "Collection of classic solitare card games, each with its own rules and game mechanics."
+  },
+  {
+    "name": "Spades",
+    "similar name": "Spades",
+    "similar link": "https://boardgamegeek.com/boardgame/592/spades",
+    "players": "2-4",
+    "language": "US",
+    "link": "Spades.vtt",
+    "notes": "Classic trick-taking card game using spades as trumps. Bid anticipated number of tricks and score based on how well players do. First to agreed-upon point total wins."
+  },
+  {
+    "name": "Elemental",
+    "similar name": "Spicy",
+    "similar link": "https://boardgamegeek.com/boardgame/299169/spicy",
+    "players": "2-6",
+    "language": "US",
+    "link": "Elemental.vtt",
+    "notes": "Bluffing card game. Play or pass each turn while declaring card. Penalties for getting caught lieing and wrong challenges. Collect reward cards for points.  Most points wins."
+  },
+  {
+    "name": "Splendid",
+    "similar name": "Splendor",
+    "similar link": "https://boardgamegeek.com/boardgame/148228/splendor",
+    "players": "2-4",
+    "language": "US",
+    "link": "Splendid.vtt",
+    "notes": "Buy cards and gems to collect points.  First player to 15 points wins."
+  },
+  {
+    "name": "Impostor",
+    "similar name": "Spyfall",
+    "similar link": "https://boardgamegeek.com/boardgame/166384/spyfall",
+    "players": "3-8",
+    "language": "UN",
+    "link": "Impostor.vtt",
+    "notes": "One player randomly assigned as impostor and all other players look at image showing a location. Players ask questions to try and figure out which player is the impostor. Impostor scores points for guessing location. Other players score points for identifying imposter. Highest score after agreed upon number of rounds wins."
+  },
+  {
+    "name": "Stardust Butterfly",
+    "similar name": "Startdust Butterfly",
+    "similar link": "https://zoql.itch.io/stardustbutterfly",
+    "players": "3",
+    "language": "US",
+    "link": "Stardust Butterfly.vtt",
+    "notes": "Take turns drafting from 9 action cards. During play, use special power of action card and roll dice to purchase weapons cards, move location of ship, increase skills, and hunt wanted criminals. Play 6 rounds. Player with most points at end wins."
+  },
+  {
+    "name": "Investors",
+    "similar name": "Startups",
+    "similar link": "https://boardgamegeek.com/boardgame/223770/startups",
+    "players": "3-7",
+    "language": "US",
+    "link": "Investors.vtt",
+    "notes": "Collect and discard cards representing new businesses. Take cards in common market area for free or pay coins to take card from deck. Only the player with the most cards of each type collects coins at end. Play until deck is depeleted. Player with most coins at end wins."
+  },
+  {
+    "name": "Capture the Flag",
+    "similar name": "Stratego",
+    "similar link": "https://boardgamegeek.com/boardgame/1917/stratego",
+    "players": "2",
+    "language": "US",
+    "link": "Capture the Flag.vtt",
+    "notes": "Strategically arrange movable army pieces, bombs, and flag on board. Attack and capture opponents pieces. First to capture opponent's flag wins."
+  },
+  {
+    "name": "Tutti Frutti",
+    "similar name": "Sushi Go!",
+    "similar link": "https://boardgamegeek.com/boardgame/133473/sushi-go",
+    "players": "2-5",
+    "language": "US",
+    "link": "Tutti Frutti.vtt",
+    "notes": "Players choose a card from their hand to play face up, then pass the remaining cards. Repeat until all cards are played. Earn points by collecting sets of cards or being player with most of certain card. Most points after 3 rounds wins."
+  },
+  {
+    "name": "Tangrams",
+    "similar name": "Tangrams",
+    "similar link": "https://boardgamegeek.com/boardgame/23953/outside-scope-bgg",
+    "players": "1",
+    "language": "US",
+    "link": "Tangrams.vtt",
+    "notes": "Solo puzzle game.  Use triangles, a square, and a parallelogram to make designs. "
+  },
+  {
+    "name": "Connex",
+    "similar name": "Tetris Link",
+    "similar link": "https://boardgamegeek.com/boardgame/93185/tetris-link",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Connex.vtt",
+    "notes": "Place colored, shaped blocks into playing area to connect as many pieces as possible to earn points and block opponents.  Highest score wins. "
+  },
+  {
+    "name": "Medieval VNO",
+    "similar name": "UNO",
+    "similar link": "https://boardgamegeek.com/boardgame/2223/uno",
+    "players": "2-8",
+    "language": "US / UN",
+    "link": "Medieval VNO.vtt",
+    "notes": "Play cards onto discard stack matching color or number.  Use cards with powers to influence play.  First to get rid of all cards wins."
+  },
+  {
+    "name": "Peak Performance",
+    "similar name": "Unsurmountable",
+    "similar link": "https://boardgamegeek.com/boardgame/331328/unsurmountable",
+    "players": "1",
+    "language": "US",
+    "link": "Peak Performance.vtt",
+    "notes": "Build a pyramid of cards ensuring a continuous path is available from bottom to top. A card may be discarded instead of played on the board to activate its special ability. Goal is to fill in all spaces on the pyramid with a connected path before running out of cards."
+  },
+  {
+    "name": "Fantasy Wars",
+    "similar name": "War Chest",
+    "similar link": "https://boardgamegeek.com/boardgame/249259/war-chest",
+    "players": "2-4",
+    "language": "US",
+    "link": "Fantasy Wars.vtt",
+    "notes": "Choose and place tokens with special powers to fight for space on board with hexagon shaped areas.  First player who places designated tokes in specific spaces wins."
+  },
+  {
+    "name": "Magician",
+    "similar name": "Wizard",
+    "similar link": "https://boardgamegeek.com/boardgame/1465/wizard",
+    "players": "3-6",
+    "language": "US",
+    "link": "Magician.vtt",
+    "notes": "Trick taking, trump card game using a deck of 60 cards where players must take exact number of tricks bid and 8 cards have special rules.  Most points wins."
+  },
+  {
+    "name": "Five of a Kind",
+    "similar name": "Yahtzee",
+    "similar link": "https://boardgamegeek.com/boardgame/2243/yahtzee",
+    "players": "1-6",
+    "language": "US",
+    "link": "Five of a Kind.vtt",
+    "notes": "Classic dice game. Roll dice up to three times to complete designated tasks on scorecard. Highest score wins."
+  },
+  {
+    "name": "-----Tutorials Follow-----",
+    "similar name": "",
+    "similar link": "",
+    "players": "",
+    "language": "",
+    "link": "",
+    "notes": "Tutorials are demo files for developers. They are not games."
+  },
+  {
+    "name": "Arrays",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Arrays.vtt",
+    "notes": "6 Variants: Creating, Evaluating, Modifying - Basic, Modifying - Advanced, Example: Random Word, Example: Moving Widget"
+  },
+  {
+    "name": "Button Appearance",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Button Appearance.vtt",
+    "notes": "4 Variants: Introduction, Text Only, Images, CSS Shapes"
+  },
+  {
+    "name": "Canvas",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Canvas.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Comparisons",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Comparisons.vtt",
+    "notes": "2 Variants: Alphanumeric, Logical"
+  },
+  {
+    "name": "CSS",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - CSS.vtt",
+    "notes": "4 Variants: Basic, Advanced, Caution, Cards"
+  },
+  {
+    "name": "Decks",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Decks.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Dice",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Dice.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Enlarge",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Enlarge.vtt",
+    "notes": "2 Variants: Basic, Cards"
+  },
+  {
+    "name": "faceTemplates",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - faceTemplates.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - AUDIO",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - AUDIO.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - CALL",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CALL.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - CLICK",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CLICK.vtt",
+    "notes": "2 Variants: Basic, Modes"
+  },
+  {
+    "name": "Functions - CLONE and DELETE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - CLONE and DELETE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - COUNT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - COUNT.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - FLIP",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - FLIP.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - FOREACH",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - FOREACH.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - GET",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - GET.vtt",
+    "notes": "2 Variants: Basic, Virtual Properties"
+  },
+  {
+    "name": "Functions - IF",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - IF.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - INPUT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - INPUT.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - LABEL",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - LABEL.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - MOVE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - MOVE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - MOVEXY",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - MOVEXY.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - RECALL and SHUFFLE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - RECALL and SHUFFLE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - ROTATE",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - ROTATE.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Functions - SELECT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - SELECT.vtt",
+    "notes": "3 Variants: Basic, Relation, Mode and Rank"
+  },
+  {
+    "name": "Functions - SORT",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Functions - SORT.vtt",
+    "notes": "5 Variants: Introduction, Inbuilt Keys, Sequential, Reversing, Poker Hands"
+  },
+  {
+    "name": "Grids",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Grid.vtt",
+    "notes": "4 Variants: Tiling, Area Limit, Hexagonal Grids, Changing Properties"
+  },
+  {
+    "name": "Hands",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Hands.vtt",
+    "notes": "3 Variants: Direct Deal, Custom Visibility, Seats"
+  },
+  {
+    "name": "Hexagonal Cards",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Hexagonal Cards.vtt",
+    "notes": "3 Variants: Basics, Grid, Demo"
+  },
+  {
+    "name": "Holders",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Holders.vtt",
+    "notes": "5 Variants: Appearance, Offset Basic, Offset Advanced, Moving Basic, Moving Advanced"
+  },
+  {
+    "name": "inheritFrom",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - inheritFrom.vtt",
+    "notes": ""
+  },
+  {
+    "name": "JSON User Guide",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - JSON User Guide.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Master Button",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Master Button.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Math",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Math.vtt",
+    "notes": "5 Variants: Basic, Constants, Advanced, Randomization, Format"
+  },
+  {
+    "name": "Menus",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Menus.vtt",
+    "notes": "2 Variants: Basic, Advanced"
+  },
+  {
+    "name": "Piles",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Piles.vtt",
+    "notes": "3 Variants: Basic, Advanced, Decoration"
+  },
+  {
+    "name": "Routines",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Routines.vtt",
+    "notes": "5 Variants: Intro and clickRoutine, enterRoutine and leaveRoutine, changeRoutine, globalUpdateRoutine, clickRoutine Equivalents"
+  },
+  {
+    "name": "Seats",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Seats.vtt",
+    "notes": "4 variants: Basic, Advanced, Turns, and Board Demo"
+  },
+  {
+    "name": "Skip",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Skip.vtt",
+    "notes": "2 Variants: Occupied Holders, Used Buttons"
+  },
+  {
+    "name": "Spinners",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Spinners.vtt",
+    "notes": "6 Variants: Basics, Recoloring, Customizing the Arrow, Custom Background, Styling Examples, Automations"
+  },
+  {
+    "name": "State Dependent Routines",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - State Dependent Routines.vtt",
+    "notes": "3 Variants: Custom states, Inbuilt states, Example: Self Locking Button"
+  },
+  {
+    "name": "Strings",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Strings.vtt",
+    "notes": "4 Variants: Creating, Evaluating, Modifying, Example: CSS"
+  },
+  {
+    "name": "Timer",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Tutorial - Timer.vtt",
+    "notes": "3 Variants: Basics, Card Deal Animation, Appearance"
+  },
+  {
+    "name": "------Assets Follow------",
+    "similar name": "",
+    "similar link": "",
+    "players": "",
+    "language": "",
+    "link": "",
+    "notes": "Assets are widgets and other items for developers. They are not games."
+  },
+  {
+    "name": "Decks",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "UN",
+    "link": "Assets - Decks.vtt",
+    "notes": "6 Variants: Default, Pixel Art, Minimalist, Big Symbols, Domino (Skinny Cards), Grim Pixel Art"
+  },
+  {
+    "name": "Dice",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Dice.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Marbles",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Marbles.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Spinners",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Spinners.vtt",
+    "notes": ""
+  },
+  {
+    "name": "Symbols",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "US",
+    "link": "Assets - Symbols.vtt",
+    "notes": "Recommended standard symbols for VTT games"
+  },
+  {
+    "name": "Other Widgets",
+    "similar name": "",
+    "similar link": "",
+    "players": "1",
+    "language": "UN",
+    "link": "Assets - Widgets.vtt",
+    "notes": "5 Variants: Game Pieces, Game Boards, Buttons, Crystals, Misc Tools"
+  }
+
+]
