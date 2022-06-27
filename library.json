@@ -315,6 +315,15 @@
     "notes": "Place shaped pieces on board to fill in as many spaces as possible, but leaving designated scoring spaces open.  Highest score wins."
   },
   {
+    "name": "Dog Eat Dog World",
+    "similar name": "Food Chain Island",
+    "similar link": "https://boardgamegeek.com/boardgame/309110/food-chain-island",
+    "players": "1",
+    "language": "US",
+    "link": "Dog Eat Dog World.vtt",
+    "notes": "Starting with grid of 16 cards representing animals, move card to eat another smaller, adjacent animal card. Then activate the special power of the eating animal. Game ends when player cannot move to eat an animal. Goal is to have only one animal card remaining."
+  },
+  {
     "name": "Go",
     "similar name": "Go",
     "similar link": "https://boardgamegeek.com/boardgame/188/go",
@@ -412,6 +421,15 @@
     "language": "UN",
     "link": "Tittle.vtt",
     "notes": "Place cards in tile pattern on board matching 4 shapes and 4 colors.  Player with most points wins."
+  },
+  {
+    "name": "Agra",
+    "similar name": "Jaipur",
+    "similar link": "https://boardgamegeek.com/boardgame/54043/jaipur",
+    "players": "2",
+    "language": "UN",
+    "link": "Agra.vtt",
+    "notes": "Players take turns either taking cards from common market area or selling cards in exchange for 6 different goods tokens worth varying points. Play until card pile is depleted or 3 types of goods are depleted. Most points at end of round wins the round. First to win 2 rounds is overall winner."
   },
   {
     "name": "Find the Word",
@@ -583,6 +601,15 @@
     "language": "UN",
     "link": "Ninety-Nine.vtt",
     "notes": "Trick taking card game using part of your hand to declare bid.  Most points wins."
+  },
+  {
+    "name": "No Cheese No Coin",
+    "similar name": "No Cheese No Coin",
+    "similar link": "https://www.srafferty.com/nocheesenocoin",
+    "players": "3-6",
+    "language": "US",
+    "link": "No Cheese No Coin.vtt",
+    "notes": "Collect coin and cheese cards. Play cheese card to use its special powers. Play until deck is depleted or 10 minute timer expires. Player with most coin cards at end wins."
   },
   {
     "name": "Ich mag keine Karten",
@@ -774,6 +801,15 @@
     "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins."
   },
   {
+    "name": "Scrappet Kaiser Princess",
+    "similar name": "Scrappet Kaiser Princess",
+    "similar link": "https://zoql.itch.io/scrappetkaiserprincess",
+    "players": "1",
+    "language": "US",
+    "link": "Scrappet Kaiser Princess.vtt",
+    "notes": "Place workers on game board and assign them tasks of earning money, buying cards, trading for cards, or dueling for cards. Play 7 rounds and earn as many points as possible. Compare against game ending point chart to see how well you did."
+  },
+  {
     "name": "Stacker",
     "similar name": "Skip-Bo",
     "similar link": "https://boardgamegeek.com/boardgame/1269/skip-bo",
@@ -846,6 +882,24 @@
     "notes": "One player randomly assigned as impostor and all other players look at image showing a location. Players ask questions to try and figure out which player is the impostor. Impostor scores points for guessing location. Other players score points for identifying imposter. Highest score after agreed upon number of rounds wins."
   },
   {
+    "name": "Stardust Butterfly",
+    "similar name": "Startdust Butterfly",
+    "similar link": "https://zoql.itch.io/stardustbutterfly",
+    "players": "3",
+    "language": "US",
+    "link": "Stardust Butterfly.vtt",
+    "notes": "Take turns drafting from 9 action cards. During play, use special power of action card and roll dice to purchase weapons cards, move location of ship, increase skills, and hunt wanted criminals. Play 6 rounds. Player with most points at end wins."
+  },
+  {
+    "name": "Investors",
+    "similar name": "Startups",
+    "similar link": "https://boardgamegeek.com/boardgame/223770/startups",
+    "players": "3-7",
+    "language": "US",
+    "link": "Investors.vtt",
+    "notes": "Collect and discard cards representing new businesses. Take cards in common market area for free or pay coins to take card from deck. Only the player with the most cards of each type collects coins at end. Play until deck is depeleted. Player with most coins at end wins."
+  },
+  {
     "name": "Capture the Flag",
     "similar name": "Stratego",
     "similar link": "https://boardgamegeek.com/boardgame/1917/stratego",
@@ -889,6 +943,15 @@
     "language": "US / UN",
     "link": "Medieval VNO.vtt",
     "notes": "Play cards onto discard stack matching color or number.  Use cards with powers to influence play.  First to get rid of all cards wins."
+  },
+  {
+    "name": "Peak Performance",
+    "similar name": "Unsurmountable",
+    "similar link": "https://boardgamegeek.com/boardgame/331328/unsurmountable",
+    "players": "1",
+    "language": "US",
+    "link": "Peak Performance.vtt",
+    "notes": "Build a pyramid of cards ensuring a continuous path is available from bottom to top. A card may be discarded instead of played on the board to activate its special ability. Goal is to fill in all spaces on the pyramid with a connected path before running out of cards."
   },
   {
     "name": "Fantasy Wars",
