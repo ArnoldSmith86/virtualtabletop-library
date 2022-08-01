@@ -13,7 +13,7 @@
     "similar name": "Arboretum",
     "similar link": "https://boardgamegeek.com/boardgame/140934/arboretum",
     "players": "2-4",
-    "language": "UN",
+    "language": "US",
     "link": "Flora.vtt",
     "notes": "Create sets of floral cards in tiled sequences to connect the same species of flower.  Highest score wins."
   },
@@ -237,10 +237,10 @@
     "name": "Dominoes",
     "similar name": "Dominoes",
     "similar link": "https://boardgamegeek.com/boardgame/2394/dominoes",
-    "players": "2-5",
+    "players": "1-10",
     "language": "UN",
     "link": "Dominoes.vtt",
-    "notes": "Classic tile-based strategy game using dominoes with 0 to 6 pips.  Multiple rule variations and winning conditions."
+    "notes": "Classic tile-based strategy game using dominoes with 0 to 15 pips.  Multiple rule variations and winning conditions."
   },
   {
     "name": "Dots",
@@ -798,7 +798,7 @@
     "players": "2-4",
     "language": "US / DE / BR",
     "link": "Wordy.vtt",
-    "notes": "Use letter tiles to build words with extra points for playing in certain locations.  Most points wins."
+    "notes": "Use letter tiles to build words with extra points for playing in certain locations. Play until tile bag runs out. Most points wins."
   },
   {
     "name": "Scrappet Kaiser Princess",
@@ -883,7 +883,7 @@
   },
   {
     "name": "Stardust Butterfly",
-    "similar name": "Startdust Butterfly",
+    "similar name": "Stardust Butterfly",
     "similar link": "https://zoql.itch.io/stardustbutterfly",
     "players": "3",
     "language": "US",
