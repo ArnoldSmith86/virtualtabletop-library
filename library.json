@@ -24,7 +24,16 @@
     "players": "2-4",
     "language": "UN",
     "link": "Blue.vtt",
-    "notes": "Choose colored tiles to place on board in matching colors with extra points for specific patterns and sets.  Highest score wins."
+    "notes": "Choose colored tiles to place on board in matching colors with extra points for specific patterns and sets.  Play until one player fills a row on their board. Highest score wins."
+  },
+  {
+    "name": "Blue: Winter Alcove",
+    "similar name": "Azul: Summer Pavilion",
+    "similar link": "https://boardgamegeek.com/boardgame/287954/azul-summer-pavilion",
+    "players": "2-4",
+    "language": "UN",
+    "link": "Blue - Winter Alcove.vtt",
+    "notes": "Choose colored tiles to place on board in matching colors with extra points for specific patterns and sets.  A new twist on the classic Blue using different shapes and tiles and a more complex board. Play 6 rounds. Highest score wins."
   },
   {
     "name": "Backgammon",
@@ -115,6 +124,15 @@
     "language": "US",
     "link": "Cities.vtt",
     "notes": "Tile-building game where players create and link farmland, cities, and roads to earn points. Optional 4 expansion packs with additional tiles, scoring system, and rules available and built-in to the main game."
+  },
+  {
+    "name": "Surveyor",
+    "similar name": "Cartographers",
+    "similar link": "https://boardgamegeek.com/boardgame/263918/cartographers",
+    "players": "1-8",
+    "language": "US",
+    "link": "Surveyor.vtt",
+    "notes": "Draw cards to reveal terrain and a shape. Add selected terrain and shape to individual 11x11 grid board. Try to connect terrain pieces in patterns designated by goal cards. Play 4 rounds. Highest score wins."
   },
   {
     "name": "Checkers",
@@ -369,6 +387,15 @@
     "notes": "Guess letters to complete a word before the hangman image is filled in."
   },
   {
+    "name": "Scrivener",
+    "similar name": "Hardback",
+    "similar link": "https://boardgamegeek.com/boardgame/223750/hardback",
+    "players": "1-5",
+    "language": "US",
+    "link": "Scrivener.vtt",
+    "notes": "Build a deck of letters with various powers. Form words from letters to score points and buy ink and remover. Play until first player reaches 60 points. Highest score wins."
+  },
+  {
     "name": "Animal Race",
     "similar name": "Hare & Tortoise",
     "similar link": "https://boardgamegeek.com/boardgame/361/hare-tortoise",
@@ -540,6 +567,15 @@
     "notes": "Move marbles around pits in board to collect your own and opponents marbles.  Player with most marbles wins."
   },
   {
+    "name": "Universal",
+    "similar name": "Mandala",
+    "similar link": "https://boardgamegeek.com/boardgame/264241/mandala",
+    "players": "1-2",
+    "language": "UN",
+    "link": "Universal.vtt",
+    "notes": "Play cards into one of two common board areas. Once a board area is filled with each of 6 different colors of cards, players collect cards of like colors to store for later counting. Play until card pile runs out or first player collects cards of all 6 colors. Highest score wins."
+  },
+  {
     "name": "Pairs",
     "similar name": "Memory",
     "similar link": "https://boardgamegeek.com/boardgame/7688/memory",
@@ -709,6 +745,15 @@
     "language": "US",
     "link": "Poker.vtt",
     "notes": "Use regular deck of 52 cards to form hands higher than opponents, or bluff them into believing your hand is higher.  Multiple rule variations and winning conditions."
+  },
+  {
+    "name": "Tik Tak Toe Extreme",
+    "similar name": "Quarto",
+    "similar link": "https://boardgamegeek.com/boardgame/681/quarto",
+    "players": "2",
+    "language": "US",
+    "link": "Tik Tak Toe Extreme.vtt",
+    "notes": "A 3-D twist on the classic game of X's and O's. Use a 4x4 grid board with 16 different pieces with one of two attributes in each of these categories: color, height, shape, and hollowness. Opponent chooses the piece the other player places on board. First to get 4 in a row with at least one attribute in common wins."
   },
   {
     "name": "Alleys",
@@ -934,6 +979,15 @@
     "language": "UN",
     "link": "Connex.vtt",
     "notes": "Place colored, shaped blocks into playing area to connect as many pieces as possible to earn points and block opponents.  Highest score wins. "
+  },
+  {
+    "name": "Small Settlements",
+    "similar name": "Tiny Towns",
+    "similar link": "https://boardgamegeek.com/boardgame/265736/tiny-towns",
+    "players": "1-6",
+    "language": "US",
+    "link": "Small Settlements.vtt",
+    "notes": "Place colored resource blocks into designated patterns on individual 4x4 grid board. When pattern is completed, turn resource cubes into buildings with special point scoring powers. Play until all players can no longer place resources. Highest score wins."
   },
   {
     "name": "Medieval VNO",
