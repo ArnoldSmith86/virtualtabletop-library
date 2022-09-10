@@ -621,6 +621,15 @@
     "notes": "Cooperative game where cards 1-100 must be revealed in lowest to highest order. Players may not communicate and as there is no order of play, players must get a sense of when to play and when to wait.  Team wins if all levels completed before losing its last life."
   },
   {
+    "name": "Dungeon Speeders",
+    "similar name": "Mutant Meeples",
+    "similar link": "https://boardgamegeek.com/boardgame/109969/mutant-meeples",
+    "players": "2-8",
+    "language": "US",
+    "link": "Dungeon Speeders.vtt",
+    "notes": "Players compete to be the first to have one of their 8 tokens reach the target using the fewest possible moves and the special powers of each token. Once one player’s token reaches the target, that token is collected and no longer available for that player to use. First player to collect 6 tokens wins."
+  },
+  {
     "name": "Nine Men's Morris",
     "similar name": "Nine Men's Morris",
     "similar link": "https://boardgamegeek.com/boardgame/3886/nine-mens-morris",
